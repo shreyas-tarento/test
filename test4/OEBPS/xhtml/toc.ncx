@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xml:lang="sv" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9789173339582"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="229"/>
+<meta name="dtb:maxPageNumber" content="229"/>
+</head>
+<docTitle>
+<text>300 fr&#229;gor och svar om entreprenadjuridik</text>
+</docTitle>
+<navMap>
+<navPoint id="i1" playOrder="1"><navLabel><text>Omslag</text></navLabel><content src="omslag.xhtml"/></navPoint>
+<navPoint id="i2" playOrder="2"><navLabel><text>Titel</text></navLabel><content src="titel.xhtml"/></navPoint>
+<navPoint id="i3" playOrder="3"><navLabel><text>Upphovsrätt</text></navLabel><content src="upphovsratt.xhtml"/></navPoint>
+<navPoint id="i4" playOrder="4"><navLabel><text>F&#246;rord</text></navLabel><content src="forord.xhtml"/></navPoint>
+<navPoint id="i5" playOrder="5"><navLabel><text>Inneh&#229;ll</text></navLabel><content src="innehall.xhtml"/></navPoint>
+<navPoint id="i6" playOrder="6"><navLabel><text>F&#246;rkortningar</text></navLabel><content src="forkortningar.xhtml"/></navPoint>
+<navPoint id="i7" playOrder="7"><navLabel><text>1. Avtalet</text></navLabel><content src="kapitel01.xhtml#chapter01"/>
+<navPoint id="i8" playOrder="8"><navLabel><text>1. Bostadsr&#228;ttsf&#246;rening</text></navLabel><content src="kapitel01.xhtml#sec1"/></navPoint>
+<navPoint id="i9" playOrder="9"><navLabel><text>2. Indikativt anbud</text></navLabel><content src="kapitel01.xhtml#sec2"/></navPoint>
+<navPoint id="i10" playOrder="10"><navLabel><text>3. Incitament</text></navLabel><content src="kapitel01.xhtml#sec3"/></navPoint>
+<navPoint id="i11" playOrder="11"><navLabel><text>4. &#214;verl&#229;telse av entreprenadavtal</text></navLabel><content src="kapitel01.xhtml#sec4"/></navPoint>
+<navPoint id="i12" playOrder="12"><navLabel><text>5. Finst&#228;dning</text></navLabel><content src="kapitel01.xhtml#sec5"/></navPoint>
+<navPoint id="i13" playOrder="13"><navLabel><text>6. Nytt rotavdrag &#8211; men vilka standardavtal g&#228;ller?</text></navLabel><content src="kapitel01.xhtml#sec6"/></navPoint>
+<navPoint id="i14" playOrder="14"><navLabel><text>7. E-post</text></navLabel><content src="kapitel01.xhtml#sec7"/></navPoint>
+<navPoint id="i15" playOrder="15"><navLabel><text>8. Best&#228;llning fr&#229;n projektledaren</text></navLabel><content src="kapitel01.xhtml#sec8"/></navPoint>
+<navPoint id="i16" playOrder="16"><navLabel><text>9. Samordningsansvar enligt AB 04</text></navLabel><content src="kapitel01.xhtml#sec9"/></navPoint>
+<navPoint id="i17" playOrder="17"><navLabel><text>10. Trappa, hiss eller ingenting?</text></navLabel><content src="kapitel01.xhtml#sec10"/></navPoint>
+<navPoint id="i18" playOrder="18"><navLabel><text>11. R&#228;tt att anv&#228;nda handlingar</text></navLabel><content src="kapitel01.xhtml#sec11"/></navPoint>
+<navPoint id="i19" playOrder="19"><navLabel><text>12. Arbetsmilj&#246;ansvar &#8211; sj&#228;lvst&#228;ndig uppdragstagare</text></navLabel><content src="kapitel01.xhtml#sec12"/></navPoint>
+<navPoint id="i20" playOrder="20"><navLabel><text>13. Totalentreprenad</text></navLabel><content src="kapitel01.xhtml#sec13"/></navPoint>
+<navPoint id="i21" playOrder="21"><navLabel><text>14. Underentreprenader</text></navLabel><content src="kapitel01.xhtml#sec14"/></navPoint>
+<navPoint id="i22" playOrder="22"><navLabel><text>15. F&#246;r mycket handlingar</text></navLabel><content src="kapitel01.xhtml#sec15"/></navPoint>
+<navPoint id="i23" playOrder="23"><navLabel><text>16. Tillf&#228;llig el</text></navLabel><content src="kapitel01.xhtml#sec16"/></navPoint>
+<navPoint id="i24" playOrder="24"><navLabel><text>17. Anbudet som f&#246;rsvann</text></navLabel><content src="kapitel01.xhtml#sec17"/></navPoint>
+<navPoint id="i25" playOrder="25"><navLabel><text>18. Returr&#228;tt</text></navLabel><content src="kapitel01.xhtml#sec18"/></navPoint>
+<navPoint id="i26" playOrder="26"><navLabel><text>19. Skriftlighetskrav</text></navLabel><content src="kapitel01.xhtml#sec19"/></navPoint>
+<navPoint id="i27" playOrder="27"><navLabel><text>20. Neka bostadsr&#228;ttsk&#246;pare</text></navLabel><content src="kapitel01.xhtml#sec20"/></navPoint>
+<navPoint id="i28" playOrder="28"><navLabel><text>21. R&#228;tt till formvirke</text></navLabel><content src="kapitel01.xhtml#sec21"/></navPoint>
+<navPoint id="i29" playOrder="29"><navLabel><text>22. Vara som utg&#229;tt ur produktion</text></navLabel><content src="kapitel01.xhtml#sec22"/></navPoint>
+<navPoint id="i30" playOrder="30"><navLabel><text>23. Avr&#229;dandeskyldighet</text></navLabel><content src="kapitel01.xhtml#sec23"/></navPoint>
+<navPoint id="i31" playOrder="31"><navLabel><text>24. Ansvar f&#246;r bygglov</text></navLabel><content src="kapitel01.xhtml#sec24"/></navPoint>
+<navPoint id="i32" playOrder="32"><navLabel><text>25. Rena f&#246;nster</text></navLabel><content src="kapitel01.xhtml#sec25"/></navPoint>
+<navPoint id="i33" playOrder="33"><navLabel><text>26. Reservation f&#246;r asbest</text></navLabel><content src="kapitel01.xhtml#sec26"/></navPoint>
+<navPoint id="i34" playOrder="34"><navLabel><text>27. Vilket ansvar har CM-bolaget?</text></navLabel><content src="kapitel01.xhtml#sec27"/></navPoint>
+<navPoint id="i35" playOrder="35"><navLabel><text>28. Trepartsavtal</text></navLabel><content src="kapitel01.xhtml#sec28"/></navPoint>
+<navPoint id="i36" playOrder="36"><navLabel><text>29. Vad r&#228;knas som detaljarbeten?</text></navLabel><content src="kapitel01.xhtml#sec29"/></navPoint>
+<navPoint id="i37" playOrder="37"><navLabel><text>30. Begreppet &#8221;d&#228;r s&#229; erfordras&#8221;</text></navLabel><content src="kapitel01.xhtml#sec30"/></navPoint>
+<navPoint id="i38" playOrder="38"><navLabel><text>31. M&#229;ste vi utf&#246;ra till&#228;ggsarbeten?</text></navLabel><content src="kapitel01.xhtml#sec31"/></navPoint>
+<navPoint id="i39" playOrder="39"><navLabel><text>32. Prutning av anbud</text></navLabel><content src="kapitel01.xhtml#sec32"/></navPoint>
+<navPoint id="i40" playOrder="40"><navLabel><text>33. Kan ABK 09 till&#228;mpas mot konsument?</text></navLabel><content src="kapitel01.xhtml#sec33"/></navPoint>
+<navPoint id="i41" playOrder="41"><navLabel><text>34. Kontraktsbilagornas status</text></navLabel><content src="kapitel01.xhtml#sec34"/></navPoint>
+<navPoint id="i42" playOrder="42"><navLabel><text>35. Fabriksm&#229;lat eller omm&#229;lat</text></navLabel><content src="kapitel01.xhtml#sec35"/></navPoint>
+<navPoint id="i43" playOrder="43"><navLabel><text>36. Godk&#228;nnande av arkitektonisk utformning</text></navLabel><content src="kapitel01.xhtml#sec36"/></navPoint>
+<navPoint id="i44" playOrder="44"><navLabel><text>37. Entrepren&#246;rers relation, finns det begrepp?</text></navLabel><content src="kapitel01.xhtml#sec37"/></navPoint>
+<navPoint id="i45" playOrder="45"><navLabel><text>38. Hur fungerar det med ABM 07?</text></navLabel><content src="kapitel01.xhtml#sec38"/></navPoint>
+<navPoint id="i46" playOrder="46"><navLabel><text>39. Totalentrepren&#246;r i en delad entreprenad</text></navLabel><content src="kapitel01.xhtml#sec39"/></navPoint>
+<navPoint id="i47" playOrder="47"><navLabel><text>40. Entrepren&#246;rarvode vid offentlig upphandling</text></navLabel><content src="kapitel01.xhtml#sec40"/></navPoint>
+<navPoint id="i48" playOrder="48"><navLabel><text>41. Vem &#228;ger handlingarna?</text></navLabel><content src="kapitel01.xhtml#sec41"/></navPoint>
+<navPoint id="i49" playOrder="49"><navLabel><text>42. Vem har ansvaret? (vid anl&#228;ggningsentreprenader)</text></navLabel><content src="kapitel01.xhtml#sec42"/></navPoint>
+<navPoint id="i50" playOrder="50"><navLabel><text>43. Vi har gjort dubbelt jobb &#8211; kunden vill inte betala</text></navLabel><content src="kapitel01.xhtml#sec43"/></navPoint>
+<navPoint id="i51" playOrder="51"><navLabel><text>44. Rangordning av anbud</text></navLabel><content src="kapitel01.xhtml#sec44"/></navPoint>
+<navPoint id="i52" playOrder="52"><navLabel><text>45. Funktionsansvar f&#246;r best&#228;llarens projekterade tekniska l&#246;sningar</text></navLabel><content src="kapitel01.xhtml#sec45"/></navPoint>
+<navPoint id="i53" playOrder="53"><navLabel><text>46. Vilket avtal g&#228;ller n&#228;r man bygger f&#246;r privatpersoner?</text></navLabel><content src="kapitel01.xhtml#sec46"/></navPoint>
+<navPoint id="i54" playOrder="54"><navLabel><text>47. Vad inneb&#228;r egentligen samtliga innerv&#228;ggar?</text></navLabel><content src="kapitel01.xhtml#sec47"/></navPoint>
+<navPoint id="i55" playOrder="55"><navLabel><text>48. Riktkostnadsjustering</text></navLabel><content src="kapitel01.xhtml#sec48"/></navPoint>
+<navPoint id="i56" playOrder="56"><navLabel><text>49. Uppfyller SMS skriftlighetskravet i AB 04?</text></navLabel><content src="kapitel01.xhtml#sec49"/></navPoint>
+<navPoint id="i57" playOrder="57"><navLabel><text>50. Underentreprenader n&#228;r best&#228;llaren &#228;r konsument</text></navLabel><content src="kapitel01.xhtml#sec50"/></navPoint>
+<navPoint id="i58" playOrder="58"><navLabel><text>51. Anbud p&#229; styrd totalentreprenad</text></navLabel><content src="kapitel01.xhtml#sec51"/></navPoint>
+<navPoint id="i59" playOrder="59"><navLabel><text>52. Vilka krav p&#229; s&#228;kerhet kan jag st&#228;lla?</text></navLabel><content src="kapitel01.xhtml#sec52"/></navPoint>
+<navPoint id="i60" playOrder="60"><navLabel><text>53. &#214;verl&#229;ta ansvar enligt personalliggarlagen</text></navLabel><content src="kapitel01.xhtml#sec53"/></navPoint>
+<navPoint id="i61" playOrder="61"><navLabel><text>54. Vilken status har listan &#246;ver handverktyg?</text></navLabel><content src="kapitel01.xhtml#sec54"/></navPoint>
+<navPoint id="i62" playOrder="62"><navLabel><text>55. Kontrollansvariga och ABK</text></navLabel><content src="kapitel01.xhtml#sec55"/></navPoint>
+<navPoint id="i63" playOrder="63"><navLabel><text>56. Hinder p&#229; grund av utebliven &#196;TA-best&#228;llning?</text></navLabel><content src="kapitel01.xhtml#sec56"/></navPoint>
+<navPoint id="i64" playOrder="64"><navLabel><text>57. Beh&#246;ver BAS-U vara tillg&#228;nglig p&#229; arbetsplatsen?</text></navLabel><content src="kapitel01.xhtml#sec57"/></navPoint>
+<navPoint id="i65" playOrder="65"><navLabel><text>58. Ol&#228;mplig l&#246;sning i teknisk beskrivning</text></navLabel><content src="kapitel01.xhtml#sec58"/></navPoint>
+<navPoint id="i66" playOrder="66"><navLabel><text>59. Hur kan BAS-U utses vid delad entreprenad?</text></navLabel><content src="kapitel01.xhtml#sec59"/></navPoint>
+<navPoint id="i67" playOrder="67"><navLabel><text>60. Vad &#228;r samordnad generalentreprenad?</text></navLabel><content src="kapitel01.xhtml#sec60"/></navPoint>
+<navPoint id="i68" playOrder="68"><navLabel><text>61. Vilka vitesregler g&#228;ller n&#228;r avisering uteblivit?</text></navLabel><content src="kapitel01.xhtml#sec61"/></navPoint>
+<navPoint id="i69" playOrder="69"><navLabel><text>62. Avvikelse fr&#229;n AB 04 &#8211; kan kunden kr&#228;va det?</text></navLabel><content src="kapitel01.xhtml#sec62"/></navPoint>
+<navPoint id="i70" playOrder="70"><navLabel><text>63. Hantverkarformul&#228;ret 14 och ABS 09</text></navLabel><content src="kapitel01.xhtml#sec63"/></navPoint>
+<navPoint id="i71" playOrder="71"><navLabel><text>64. Skadest&#229;nd f&#246;r f&#246;rst&#246;rda planteringar &#8211; vem har r&#228;tt?</text></navLabel><content src="kapitel01.xhtml#sec64"/></navPoint>
+<navPoint id="i72" playOrder="72"><navLabel><text>65. Kvalitetsplan och milj&#246;plan &#8211; hur h&#229;rda &#228;r reglerna?</text></navLabel><content src="kapitel01.xhtml#sec65"/></navPoint>
+<navPoint id="i73" playOrder="73"><navLabel><text>66. Om entreprenadkontrakt mellan parterna</text></navLabel><content src="kapitel01.xhtml#sec66"/></navPoint>
+<navPoint id="i74" playOrder="74"><navLabel><text>67. Vem samordnar best&#228;llarens kvarboende hyresg&#228;ster</text></navLabel><content src="kapitel01.xhtml#sec67"/></navPoint>
+<navPoint id="i75" playOrder="75"><navLabel><text>68. Nya krav fr&#229;n kund kr&#228;ver underr&#228;ttelse f&#246;r ers&#228;ttning</text></navLabel><content src="kapitel01.xhtml#sec68"/></navPoint>
+<navPoint id="i76" playOrder="76"><navLabel><text>69. Samordning styr inte omfattning</text></navLabel><content src="kapitel01.xhtml#sec69"/></navPoint>
+<navPoint id="i77" playOrder="77"><navLabel><text>70. D&#246;rrarna lever kanske inte upp till funktionskravet &#8211; vad ska vi g&#246;ra?</text></navLabel><content src="kapitel01.xhtml#sec70"/></navPoint>
+<navPoint id="i78" playOrder="78"><navLabel><text>71. Vilka brister m&#229;ste man underr&#228;tta om?</text></navLabel><content src="kapitel01.xhtml#sec71"/></navPoint>
+<navPoint id="i79" playOrder="79"><navLabel><text>72. Hur m&#229;nga v&#228;ggar ska jag riva?</text></navLabel><content src="kapitel01.xhtml#sec72"/></navPoint>
+<navPoint id="i80" playOrder="80"><navLabel><text>73. Vem ska st&#229; f&#246;r byggbodar och avlopp?</text></navLabel><content src="kapitel01.xhtml#sec73"/></navPoint>
+<navPoint id="i81" playOrder="81"><navLabel><text>74. M&#229;ste den som skriver under vara firmatecknare?</text></navLabel><content src="kapitel01.xhtml#sec74"/></navPoint>
+<navPoint id="i82" playOrder="82"><navLabel><text>75. Kan man &#229;terkalla anbud f&#246;r att uppdatera det?</text></navLabel><content src="kapitel01.xhtml#sec75"/></navPoint></navPoint>
+<navPoint id="i83" playOrder="83"><navLabel><text>2. Priset</text></navLabel><content src="kapitel02.xhtml#chapter02"/>
+<navPoint id="i84" playOrder="84"><navLabel><text>1. Takpris</text></navLabel><content src="kapitel02.xhtml#sec1"/></navPoint>
+<navPoint id="i85" playOrder="85"><navLabel><text>2. Fel pris i anbudet</text></navLabel><content src="kapitel02.xhtml#sec2"/></navPoint>
+<navPoint id="i86" playOrder="86"><navLabel><text>3. Anbudssumma</text></navLabel><content src="kapitel02.xhtml#sec3"/></navPoint>
+<navPoint id="i87" playOrder="87"><navLabel><text>4. Ungef&#228;rlig prisuppgift</text></navLabel><content src="kapitel02.xhtml#sec4"/></navPoint>
+<navPoint id="i88" playOrder="88"><navLabel><text>5. Skillnad mellan budgetpris och fast pris</text></navLabel><content src="kapitel02.xhtml#sec5"/></navPoint>
+<navPoint id="i89" playOrder="89"><navLabel><text>6. Option och m&#246;jlighet att justera pris</text></navLabel><content src="kapitel02.xhtml#sec6"/></navPoint>
+<navPoint id="i90" playOrder="90"><navLabel><text>7. Ers&#228;ttning f&#246;r tippavgift vid &#196;TA-arbeten</text></navLabel><content src="kapitel02.xhtml#sec7"/></navPoint>
+<navPoint id="i91" playOrder="91"><navLabel><text>8. Vinterkostnader</text></navLabel><content src="kapitel02.xhtml#sec8"/></navPoint>
+<navPoint id="i92" playOrder="92"><navLabel><text>9. Omf&#246;rhandla &#224;-pris vid &#246;kning av arbete</text></navLabel><content src="kapitel02.xhtml#sec9"/></navPoint>
+<navPoint id="i93" playOrder="93"><navLabel><text>10. P&#229;slag p&#229; tipp- och deponiavgifter</text></navLabel><content src="kapitel02.xhtml#sec10"/></navPoint>
+<navPoint id="i94" playOrder="94"><navLabel><text>11. Var tog fastprisreservationen v&#228;gen?</text></navLabel><content src="kapitel02.xhtml#sec11"/></navPoint>
+<navPoint id="i95" playOrder="95"><navLabel><text>12. Budget&#246;verskridande</text></navLabel><content src="kapitel02.xhtml#sec12"/></navPoint>
+<navPoint id="i96" playOrder="96"><navLabel><text>13. Ett eller flera budgetpriser?</text></navLabel><content src="kapitel02.xhtml#sec13"/></navPoint>
+<navPoint id="i97" playOrder="97"><navLabel><text>14. Budgetpris</text></navLabel><content src="kapitel02.xhtml#sec14"/></navPoint>
+<navPoint id="i98" playOrder="98"><navLabel><text>15. P&#229;slag f&#246;r underentreprenader</text></navLabel><content src="kapitel02.xhtml#sec15"/></navPoint>
+<navPoint id="i99" playOrder="99"><navLabel><text>16. Vite och skadest&#229;nd till privatperson</text></navLabel><content src="kapitel02.xhtml#sec16"/></navPoint>
+<navPoint id="i100" playOrder="100"><navLabel><text>17. Vem ska betala n&#228;r v&#228;dret har orsakat vattenskador</text></navLabel><content src="kapitel02.xhtml#sec17"/></navPoint>
+<navPoint id="i101" playOrder="101"><navLabel><text>18. Vad har vi f&#246;r r&#228;tt till reseers&#228;ttning?</text></navLabel><content src="kapitel02.xhtml#sec18"/></navPoint>
+<navPoint id="i102" playOrder="102"><navLabel><text>19. &#196;r det r&#228;tt att h&#229;lla inne betalning?</text></navLabel><content src="kapitel02.xhtml#sec19"/></navPoint>
+<navPoint id="i103" playOrder="103"><navLabel><text>20. Skillnad p&#229; &#224;-pris och timpris</text></navLabel><content src="kapitel02.xhtml#sec20"/></navPoint>
+<navPoint id="i104" playOrder="104"><navLabel><text>21. Vem har ansvar f&#246;r material som stulits?</text></navLabel><content src="kapitel02.xhtml#sec21"/></navPoint>
+<navPoint id="i105" playOrder="105"><navLabel><text>22. Hur prickar man in r&#228;tt index f&#246;r entreprenaders&#228;ttning?</text></navLabel><content src="kapitel02.xhtml#sec22"/></navPoint>
+<navPoint id="i106" playOrder="106"><navLabel><text>23. Hur hittar jag r&#228;tt indextal?</text></navLabel><content src="kapitel02.xhtml#sec23"/></navPoint>
+<navPoint id="i107" playOrder="107"><navLabel><text>24. Ers&#228;ttning f&#246;r &#246;kad kostnad vid omfattande &#196;TA-arbeten</text></navLabel><content src="kapitel02.xhtml#sec24"/></navPoint>
+<navPoint id="i108" playOrder="108"><navLabel><text>25. Vilka kostnader ing&#229;r i timpriset vid en entreprenad?</text></navLabel><content src="kapitel02.xhtml#sec25"/></navPoint>
+<navPoint id="i109" playOrder="109"><navLabel><text>26. Kontraktssumma eller entreprenadsumma?</text></navLabel><content src="kapitel02.xhtml#sec26"/></navPoint>
+<navPoint id="i110" playOrder="110"><navLabel><text>27. Preskriptionsregeln f&#246;r anspr&#229;k p&#229; ers&#228;ttning</text></navLabel><content src="kapitel02.xhtml#sec27"/></navPoint>
+<navPoint id="i111" playOrder="111"><navLabel><text>28. V&#228;sentligt minskade m&#228;ngder &#8211; hur ska entrepren&#246;ren t&#228;nka?</text></navLabel><content src="kapitel02.xhtml#sec28"/></navPoint>
+<navPoint id="i112" playOrder="112"><navLabel><text>29. Vad ing&#229;r i kontraktssumman?</text></navLabel><content src="kapitel02.xhtml#sec29"/></navPoint></navPoint>
+<navPoint id="i113" playOrder="113"><navLabel><text>3. Tider</text></navLabel><content src="kapitel03.xhtml#chapter03"/>
+<navPoint id="i114" playOrder="114"><navLabel><text>1. Anbudstid</text></navLabel><content src="kapitel03.xhtml#sec1"/></navPoint>
+<navPoint id="i115" playOrder="115"><navLabel><text>2. Tidsf&#246;rl&#228;ngning?</text></navLabel><content src="kapitel03.xhtml#sec2"/></navPoint>
+<navPoint id="i116" playOrder="116"><navLabel><text>3. &#196;ndring av tidplan</text></navLabel><content src="kapitel03.xhtml#sec3"/></navPoint>
+<navPoint id="i117" playOrder="117"><navLabel><text>4. Betalningstid</text></navLabel><content src="kapitel03.xhtml#sec4"/></navPoint>
+<navPoint id="i118" playOrder="118"><navLabel><text>5. Tidplan &#8211; juridisk status</text></navLabel><content src="kapitel03.xhtml#sec5"/></navPoint>
+<navPoint id="i119" playOrder="119"><navLabel><text>6. Preskriptionstid f&#246;r fakturor</text></navLabel><content src="kapitel03.xhtml#sec6"/></navPoint>
+<navPoint id="i120" playOrder="120"><navLabel><text>7. F&#246;r sen reklamation?</text></navLabel><content src="kapitel03.xhtml#sec7"/></navPoint>
+<navPoint id="i121" playOrder="121"><navLabel><text>8. Hur ber&#228;knas f&#246;rseningsvite?</text></navLabel><content src="kapitel03.xhtml#sec8"/></navPoint>
+<navPoint id="i122" playOrder="122"><navLabel><text>9. Uttorkningstider</text></navLabel><content src="kapitel03.xhtml#sec9"/></navPoint>
+<navPoint id="i123" playOrder="123"><navLabel><text>10. Preskriptionstid vid l&#246;pande r&#228;kning?</text></navLabel><content src="kapitel03.xhtml#sec10"/></navPoint>
+<navPoint id="i124" playOrder="124"><navLabel><text>11. Hinder som best&#228;llaren orsakat</text></navLabel><content src="kapitel03.xhtml#sec11"/></navPoint>
+<navPoint id="i125" playOrder="125"><navLabel><text>12. Vad g&#228;ller f&#246;r f&#246;rl&#228;ngd kontraktstid?</text></navLabel><content src="kapitel03.xhtml#sec12"/></navPoint>
+<navPoint id="i126" playOrder="126"><navLabel><text>13. F&#246;rsening p.g.a. byggst&#228;llningar</text></navLabel><content src="kapitel03.xhtml#sec13"/></navPoint>
+<navPoint id="i127" playOrder="127"><navLabel><text>14. Vilken procentsats g&#228;ller f&#246;r vite?</text></navLabel><content src="kapitel03.xhtml#sec14"/></navPoint>
+<navPoint id="i128" playOrder="128"><navLabel><text>15. F&#246;rseningsvite eller tidsf&#246;rl&#228;ngning?</text></navLabel><content src="kapitel03.xhtml#sec15"/></navPoint>
+<navPoint id="i129" playOrder="129"><navLabel><text>16. Otj&#228;nlig v&#228;derlek</text></navLabel><content src="kapitel03.xhtml#sec16"/></navPoint>
+<navPoint id="i130" playOrder="130"><navLabel><text>17. Vite vid f&#246;rsening av f&#246;nsterleverans</text></navLabel><content src="kapitel03.xhtml#sec17"/></navPoint>
+<navPoint id="i131" playOrder="131"><navLabel><text>18. N&#228;r &#228;r f&#246;rsening grund f&#246;r vite?</text></navLabel><content src="kapitel03.xhtml#sec18"/></navPoint>
+<navPoint id="i132" playOrder="132"><navLabel><text>19. Samordningsproblem p&#229; byggarbetsplatsen</text></navLabel><content src="kapitel03.xhtml#sec19"/></navPoint>
+<navPoint id="i133" playOrder="133"><navLabel><text>20. Ger vattenskadan oss r&#228;tt till tidsf&#246;rl&#228;ngning?</text></navLabel><content src="kapitel03.xhtml#sec20"/></navPoint>
+<navPoint id="i134" playOrder="134"><navLabel><text>21. Moms p&#229; vite</text></navLabel><content src="kapitel03.xhtml#sec21"/></navPoint>
+<navPoint id="i135" playOrder="135"><navLabel><text>22. Hinder orsakat av sidoentrepren&#246;r?</text></navLabel><content src="kapitel03.xhtml#sec22"/></navPoint>
+<navPoint id="i136" playOrder="136"><navLabel><text>23. Hur l&#229;ngt kan ett vite j&#228;mkas?</text></navLabel><content src="kapitel03.xhtml#sec23"/></navPoint>
+<navPoint id="i137" playOrder="137"><navLabel><text>24. Skadest&#229;nd vid f&#246;rsening</text></navLabel><content src="kapitel03.xhtml#sec24"/></navPoint>
+<navPoint id="i138" playOrder="138"><navLabel><text>25. Vite trots att regn satte k&#228;ppar i hjulet?</text></navLabel><content src="kapitel03.xhtml#sec25"/></navPoint>
+<navPoint id="i139" playOrder="139"><navLabel><text>26. Konkurs under p&#229;g&#229;ende arbete &#8211; hur minskar vi risken?</text></navLabel><content src="kapitel03.xhtml#sec26"/></navPoint>
+<navPoint id="i140" playOrder="140"><navLabel><text>27. N&#228;r slutar en f&#246;rsening och n&#228;r m&#229;ste vi betala vite?</text></navLabel><content src="kapitel03.xhtml#sec27"/></navPoint>
+<navPoint id="i141" playOrder="141"><navLabel><text>28. M&#229;ste best&#228;llaren f&#246;rvarna om vite?</text></navLabel><content src="kapitel03.xhtml#sec28"/></navPoint>
+<navPoint id="i142" playOrder="142"><navLabel><text>29. Forcering utan avisering</text></navLabel><content src="kapitel03.xhtml#sec29"/></navPoint></navPoint>
+<navPoint id="i143" playOrder="143"><navLabel><text>4. Garantier</text></navLabel><content src="kapitel04.xhtml#chapter04"/>
+<navPoint id="i144" playOrder="144"><navLabel><text>1. S&#228;kerhet under garantitiden</text></navLabel><content src="kapitel04.xhtml#sec1"/></navPoint>
+<navPoint id="i145" playOrder="145"><navLabel><text>2. Garantitid vid konsumententreprenader</text></navLabel><content src="kapitel04.xhtml#sec2"/></navPoint>
+<navPoint id="i146" playOrder="146"><navLabel><text>3. F&#246;ljer garantin huset?</text></navLabel><content src="kapitel04.xhtml#sec3"/></navPoint>
+<navPoint id="i147" playOrder="147"><navLabel><text>4. Ansvar under garantitiden vid anl&#228;ggningsentreprenad</text></navLabel><content src="kapitel04.xhtml#sec4"/></navPoint>
+<navPoint id="i148" playOrder="148"><navLabel><text>5. Tidpunkt f&#246;r garantitidens slut</text></navLabel><content src="kapitel04.xhtml#sec5"/></navPoint>
+<navPoint id="i149" playOrder="149"><navLabel><text>6. On demand-garantier</text></navLabel><content src="kapitel04.xhtml#sec6"/></navPoint>
+<navPoint id="i150" playOrder="150"><navLabel><text>7. Garantiansvar</text></navLabel><content src="kapitel04.xhtml#sec7"/></navPoint>
+<navPoint id="i151" playOrder="151"><navLabel><text>8. Garantitid f&#246;r del av entreprenad</text></navLabel><content src="kapitel04.xhtml#sec8"/></navPoint>
+<navPoint id="i152" playOrder="152"><navLabel><text>9. Vem ansvarar f&#246;r service av vitvaror?</text></navLabel><content src="kapitel04.xhtml#sec9"/></navPoint>
+<navPoint id="i153" playOrder="153"><navLabel><text>10. Garantitid 1 eller 5 &#229;r?</text></navLabel><content src="kapitel04.xhtml#sec10"/></navPoint>
+<navPoint id="i154" playOrder="154"><navLabel><text>11. Garantitid f&#246;r s&#228;rskild vara &#8211; vem har r&#228;tt?</text></navLabel><content src="kapitel04.xhtml#sec11"/></navPoint>
+<navPoint id="i155" playOrder="155"><navLabel><text>12. M&#229;ste vi ge garanti enligt konsumenttj&#228;nstlagen?</text></navLabel><content src="kapitel04.xhtml#sec12"/></navPoint>
+<navPoint id="i156" playOrder="156"><navLabel><text>13. &#196;r det m&#246;jligt att f&#246;rl&#228;nga garantitiden?</text></navLabel><content src="kapitel04.xhtml#sec13"/></navPoint>
+<navPoint id="i157" playOrder="157"><navLabel><text>14. Garantibesiktning &#8211; vems ansvar?</text></navLabel><content src="kapitel04.xhtml#sec14"/></navPoint></navPoint>
+<navPoint id="i158" playOrder="158"><navLabel><text>5. Ekonomi</text></navLabel><content src="kapitel05.xhtml#chapter05"/>
+<navPoint id="i159" playOrder="159"><navLabel><text>1. Konkursutbrott &#8211; vem &#228;ger byggmaterialet?</text></navLabel><content src="kapitel05.xhtml#sec1"/></navPoint>
+<navPoint id="i160" playOrder="160"><navLabel><text>2. Vem f&#229;r rabatten?</text></navLabel><content src="kapitel05.xhtml#sec2"/></navPoint>
+<navPoint id="i161" playOrder="161"><navLabel><text>3. Kan fakturan v&#228;nta?</text></navLabel><content src="kapitel05.xhtml#sec3"/></navPoint>
+<navPoint id="i162" playOrder="162"><navLabel><text>4. Dr&#246;jsm&#229;lsr&#228;nta</text></navLabel><content src="kapitel05.xhtml#sec4"/></navPoint>
+<navPoint id="i163" playOrder="163"><navLabel><text>5. Factoring</text></navLabel><content src="kapitel05.xhtml#sec5"/></navPoint>
+<navPoint id="i164" playOrder="164"><navLabel><text>6. Inv&#228;ndning mot faktura</text></navLabel><content src="kapitel05.xhtml#sec6"/></navPoint>
+<navPoint id="i165" playOrder="165"><navLabel><text>7. Dyra tvister?</text></navLabel><content src="kapitel05.xhtml#sec7"/></navPoint>
+<navPoint id="i166" playOrder="166"><navLabel><text>8. R&#228;tten till f&#246;rskottsbetalning</text></navLabel><content src="kapitel05.xhtml#sec8"/></navPoint>
+<navPoint id="i167" playOrder="167"><navLabel><text>9. &#192;-pris</text></navLabel><content src="kapitel05.xhtml#sec9"/></navPoint>
+<navPoint id="i168" playOrder="168"><navLabel><text>10. Fakturamodellen</text></navLabel><content src="kapitel05.xhtml#sec10"/></navPoint>
+<navPoint id="i169" playOrder="169"><navLabel><text>11. Best&#228;llarens granskningsr&#228;tt</text></navLabel><content src="kapitel05.xhtml#sec11"/></navPoint>
+<navPoint id="i170" playOrder="170"><navLabel><text>12. Reklamation mot faktura</text></navLabel><content src="kapitel05.xhtml#sec12"/></navPoint>
+<navPoint id="i171" playOrder="171"><navLabel><text>13. Optionspriser</text></navLabel><content src="kapitel05.xhtml#sec13"/></navPoint>
+<navPoint id="i172" playOrder="172"><navLabel><text>14. Materialkostnad</text></navLabel><content src="kapitel05.xhtml#sec14"/></navPoint>
+<navPoint id="i173" playOrder="173"><navLabel><text>15. Kvittning av fordringar</text></navLabel><content src="kapitel05.xhtml#sec15"/></navPoint>
+<navPoint id="i174" playOrder="174"><navLabel><text>16. V&#228;rdering av avg&#229;ende arbete</text></navLabel><content src="kapitel05.xhtml#sec16"/></navPoint>
+<navPoint id="i175" playOrder="175"><navLabel><text>17. Bluffakturor</text></navLabel><content src="kapitel05.xhtml#sec17"/></navPoint>
+<navPoint id="i176" playOrder="176"><navLabel><text>18. Reskostnad</text></navLabel><content src="kapitel05.xhtml#sec18"/></navPoint>
+<navPoint id="i177" playOrder="177"><navLabel><text>19. Faktura-, expeditions- och aviavgifter &#8211; Har man betalat har man godk&#228;nt avgift</text></navLabel><content src="kapitel05.xhtml#sec19"/></navPoint>
+<navPoint id="i178" playOrder="178"><navLabel><text>20. F&#246;rfallen faktura &#8211; effekten av ett bestridande</text></navLabel><content src="kapitel05.xhtml#sec20"/></navPoint>
+<navPoint id="i179" playOrder="179"><navLabel><text>21. Ers&#228;ttning f&#246;r ommontering av felaktigt material</text></navLabel><content src="kapitel05.xhtml#sec21"/></navPoint>
+<navPoint id="i180" playOrder="180"><navLabel><text>22. Debitering med LR06</text></navLabel><content src="kapitel05.xhtml#sec22"/></navPoint>
+<navPoint id="i181" playOrder="181"><navLabel><text>23. Gl&#246;mt att ans&#246;ka om rotutbetalning</text></navLabel><content src="kapitel05.xhtml#sec23"/></navPoint>
+<navPoint id="i182" playOrder="182"><navLabel><text>24. Omv&#228;nd skattskyldighet f&#246;r byggtj&#228;nster</text></navLabel><content src="kapitel05.xhtml#sec24"/></navPoint>
+<navPoint id="i183" playOrder="183"><navLabel><text>25. Sen faktura</text></navLabel><content src="kapitel05.xhtml#sec25"/></navPoint>
+<navPoint id="i184" playOrder="184"><navLabel><text>26. Betalning i samordnad generalentreprenad</text></navLabel><content src="kapitel05.xhtml#sec26"/></navPoint>
+<navPoint id="i185" playOrder="185"><navLabel><text>27. Ers&#228;ttning vid rubbade f&#246;ruts&#228;ttningar</text></navLabel><content src="kapitel05.xhtml#sec27"/></navPoint>
+<navPoint id="i186" playOrder="186"><navLabel><text>28. Preskriptionsavbrott f&#246;r f&#246;rseningsvite</text></navLabel><content src="kapitel05.xhtml#sec28"/></navPoint>
+<navPoint id="i187" playOrder="187"><navLabel><text>29. Kr&#228;vs faktura f&#246;r preskriptionsavbrott enligt 6-m&#229;nadersregeln?</text></navLabel><content src="kapitel05.xhtml#sec29"/></navPoint>
+<navPoint id="i188" playOrder="188"><navLabel><text>30. N&#228;r preskriberas index?</text></navLabel><content src="kapitel05.xhtml#sec30"/></navPoint>
+<navPoint id="i189" playOrder="189"><navLabel><text>31. Sen faktura fr&#229;n leverant&#246;r</text></navLabel><content src="kapitel05.xhtml#sec31"/></navPoint>
+<navPoint id="i190" playOrder="190"><navLabel><text>32. Reseers&#228;ttning</text></navLabel><content src="kapitel05.xhtml#sec32"/></navPoint>
+<navPoint id="i191" playOrder="191"><navLabel><text>33. Vem ska st&#229; f&#246;r forceringskostnaderna?</text></navLabel><content src="kapitel05.xhtml#sec33"/></navPoint>
+<navPoint id="i192" playOrder="192"><navLabel><text>34. Momsbelagt vite?</text></navLabel><content src="kapitel05.xhtml#sec34"/></navPoint>
+<navPoint id="i193" playOrder="193"><navLabel><text>35. F&#246;rbrukningsmaterial</text></navLabel><content src="kapitel05.xhtml#sec35"/></navPoint>
+<navPoint id="i194" playOrder="194"><navLabel><text>36. Nyckel g&#229;r inte att ha som p&#229;tryckningsmedel</text></navLabel><content src="kapitel05.xhtml#sec36"/></navPoint>
+<navPoint id="i195" playOrder="195"><navLabel><text>37. Vad g&#246;ra vid tvist om tilltr&#228;de till l&#228;genhet</text></navLabel><content src="kapitel05.xhtml#sec37"/></navPoint>
+<navPoint id="i196" playOrder="196"><navLabel><text>38. Ansvar f&#246;r rotavdrag</text></navLabel><content src="kapitel05.xhtml#sec38"/></navPoint>
+<navPoint id="i197" playOrder="197"><navLabel><text>39. Nya regler om rotavdrag</text></navLabel><content src="kapitel05.xhtml#sec39"/></navPoint>
+<navPoint id="i198" playOrder="198"><navLabel><text>40. Jag &#228;r os&#228;ker p&#229; betalning</text></navLabel><content src="kapitel05.xhtml#sec40"/></navPoint>
+<navPoint id="i199" playOrder="199"><navLabel><text>41. Skillnaden mellan &#196;TA- och hinderers&#228;ttning</text></navLabel><content src="kapitel05.xhtml#sec41"/></navPoint>
+<navPoint id="i200" playOrder="200"><navLabel><text>42. Kan man f&#229; betalt i f&#246;rskott?</text></navLabel><content src="kapitel05.xhtml#sec42"/></navPoint>
+<navPoint id="i201" playOrder="201"><navLabel><text>43. Vad kan det bli f&#246;r f&#246;ljder av slarvig projektering?</text></navLabel><content src="kapitel05.xhtml#sec43"/></navPoint>
+<navPoint id="i202" playOrder="202"><navLabel><text>44. Vilka krav kan st&#228;llas p&#229; redovisning av sj&#228;lvkostnad?</text></navLabel><content src="kapitel05.xhtml#sec44"/></navPoint>
+<navPoint id="i203" playOrder="203"><navLabel><text>45. Ers&#228;ttning f&#246;r felaktig projektering vid husbygge</text></navLabel><content src="kapitel05.xhtml#sec45"/></navPoint>
+<navPoint id="i204" playOrder="204"><navLabel><text>46. Hur sent kan best&#228;llaren avbest&#228;lla ett jobb?</text></navLabel><content src="kapitel05.xhtml#sec46"/></navPoint>
+<navPoint id="i205" playOrder="205"><navLabel><text>47. Entrepren&#246;ren hade r&#228;tt till vite</text></navLabel><content src="kapitel05.xhtml#sec47"/></navPoint>
+<navPoint id="i206" playOrder="206"><navLabel><text>48. UE kan f&#229; v&#228;nta med fakturering</text></navLabel><content src="kapitel05.xhtml#sec48"/></navPoint>
+<navPoint id="i207" playOrder="207"><navLabel><text>49. Kostnader f&#246;r handverktyg?</text></navLabel><content src="kapitel05.xhtml#sec49"/></navPoint>
+<navPoint id="i208" playOrder="208"><navLabel><text>50. Budget&#246;verskridelse &#8211; n&#228;r ska det underr&#228;ttas?</text></navLabel><content src="kapitel05.xhtml#sec50"/></navPoint>
+<navPoint id="i209" playOrder="209"><navLabel><text>51. Dokumentation vid l&#246;pande r&#228;kning</text></navLabel><content src="kapitel05.xhtml#sec51"/></navPoint>
+<navPoint id="i210" playOrder="210"><navLabel><text>52. Granskning av originalverifikationer</text></navLabel><content src="kapitel05.xhtml#sec52"/></navPoint>
+<navPoint id="i211" playOrder="211"><navLabel><text>53. Originalverifikationer &#8211; vad &#228;r det egentligen?</text></navLabel><content src="kapitel05.xhtml#sec53"/></navPoint>
+<navPoint id="i212" playOrder="212"><navLabel><text>54. R&#228;tt till betalning trots mindre justering</text></navLabel><content src="kapitel05.xhtml#sec54"/></navPoint>
+<navPoint id="i213" playOrder="213"><navLabel><text>55. V&#229;r konsult i konkurs &#8211; vem f&#229;r betala f&#246;r skadan?</text></navLabel><content src="kapitel05.xhtml#sec55"/></navPoint>
+<navPoint id="i214" playOrder="214"><navLabel><text>56. Hur l&#228;nge kan vi v&#228;nta med att fakturera?</text></navLabel><content src="kapitel05.xhtml#sec56"/></navPoint></navPoint>
+<navPoint id="i215" playOrder="215"><navLabel><text>6. Besiktning</text></navLabel><content src="kapitel06.xhtml#chapter06"/>
+<navPoint id="i216" playOrder="216"><navLabel><text>1. F&#246;rl&#228;nga garantitiden?</text></navLabel><content src="kapitel06.xhtml#sec1"/></navPoint>
+<navPoint id="i217" playOrder="217"><navLabel><text>2. Sen kallelse till slutbesiktning</text></navLabel><content src="kapitel06.xhtml#sec2"/></navPoint>
+<navPoint id="i218" playOrder="218"><navLabel><text>3. F&#246;rbesiktning eller slutbesiktning</text></navLabel><content src="kapitel06.xhtml#sec3"/></navPoint>
+<navPoint id="i219" playOrder="219"><navLabel><text>4. Vem betalar efterbesiktningen?</text></navLabel><content src="kapitel06.xhtml#sec4"/></navPoint>
+<navPoint id="i220" playOrder="220"><navLabel><text>5. Besiktningsmannens r&#228;tt att tolka parternas avtal</text></navLabel><content src="kapitel06.xhtml#sec5"/></navPoint>
+<navPoint id="i221" playOrder="221"><navLabel><text>6. Besiktning vid avbest&#228;llning</text></navLabel><content src="kapitel06.xhtml#sec6"/></navPoint>
+<navPoint id="i222" playOrder="222"><navLabel><text>7. Utl&#229;tande fr&#229;n slutbesiktning</text></navLabel><content src="kapitel06.xhtml#sec7"/></navPoint>
+<navPoint id="i223" playOrder="223"><navLabel><text>8. Besiktningsutl&#229;tandet som f&#246;rsvann</text></navLabel><content src="kapitel06.xhtml#sec8"/></navPoint>
+<navPoint id="i224" playOrder="224"><navLabel><text>9. Vite n&#228;r best&#228;llaren &#228;r sen med slutbesiktning?</text></navLabel><content src="kapitel06.xhtml#sec9"/></navPoint>
+<navPoint id="i225" playOrder="225"><navLabel><text>10. Besiktningsmannen struntar i v&#229;ra handlingar</text></navLabel><content src="kapitel06.xhtml#sec10"/></navPoint>
+<navPoint id="i226" playOrder="226"><navLabel><text>11. Besiktningsmannen har f&#246;rl&#228;ngt v&#229;r garantitid</text></navLabel><content src="kapitel06.xhtml#sec11"/></navPoint>
+<navPoint id="i227" playOrder="227"><navLabel><text>12. Besiktning med st&#246;d av f&#246;rfattning</text></navLabel><content src="kapitel06.xhtml#sec12"/></navPoint>
+<navPoint id="i228" playOrder="228"><navLabel><text>13. Fallet med dubbla besiktningsutl&#229;tanden</text></navLabel><content src="kapitel06.xhtml#sec13"/></navPoint>
+<navPoint id="i229" playOrder="229"><navLabel><text>14. Vem betalar skyliften?</text></navLabel><content src="kapitel06.xhtml#sec14"/></navPoint>
+<navPoint id="i230" playOrder="230"><navLabel><text>15. Begr&#228;nsat ansvar vid slutavsyning</text></navLabel><content src="kapitel06.xhtml#sec15"/></navPoint>
+<navPoint id="i231" playOrder="231"><navLabel><text>16. Vad g&#228;ller vid f&#246;rsenad slutbesiktning</text></navLabel><content src="kapitel06.xhtml#sec16"/></navPoint>
+<navPoint id="i232" playOrder="232"><navLabel><text>17. S&#228;rskild besiktning</text></navLabel><content src="kapitel06.xhtml#sec17"/></navPoint>
+<navPoint id="i233" playOrder="233"><navLabel><text>18. Garantitid och garantibesiktning</text></navLabel><content src="kapitel06.xhtml#sec18"/></navPoint>
+<navPoint id="i234" playOrder="234"><navLabel><text>19. Missn&#246;jd med besiktningsutl&#229;tande</text></navLabel><content src="kapitel06.xhtml#sec19"/></navPoint>
+<navPoint id="i235" playOrder="235"><navLabel><text>20. M&#229;ste vi f&#246;lja standard f&#246;r lekplatser</text></navLabel><content src="kapitel06.xhtml#sec20"/></navPoint>
+<navPoint id="i236" playOrder="236"><navLabel><text>21. Preskriptionstid f&#246;r best&#228;llarens kostnader</text></navLabel><content src="kapitel06.xhtml#sec21"/></navPoint>
+<navPoint id="i237" playOrder="237"><navLabel><text>22. Konsekvenser av gemensamt utsedd besiktningsman?</text></navLabel><content src="kapitel06.xhtml#sec22"/></navPoint>
+<navPoint id="i238" playOrder="238"><navLabel><text>23. Entrepren&#246;r missn&#246;jd med besiktning</text></navLabel><content src="kapitel06.xhtml#sec23"/></navPoint>
+<navPoint id="i239" playOrder="239"><navLabel><text>24. Att t&#228;nka p&#229; vid s&#228;rskild besiktning</text></navLabel><content src="kapitel06.xhtml#sec24"/></navPoint>
+<navPoint id="i240" playOrder="240"><navLabel><text>25. P&#229;slag med tio procent f&#246;r efterbesiktning?</text></navLabel><content src="kapitel06.xhtml#sec25"/></navPoint>
+<navPoint id="i241" playOrder="241"><navLabel><text>26. M&#229;ste vi utse ledamot i besiktningsn&#228;mnd?</text></navLabel><content src="kapitel06.xhtml#sec26"/></navPoint></navPoint>
+<navPoint id="i242" playOrder="242"><navLabel><text>7. Fel i entreprenaden</text></navLabel><content src="kapitel07.xhtml#chapter07"/>
+<navPoint id="i243" playOrder="243"><navLabel><text>1. Avbryta entreprenaden</text></navLabel><content src="kapitel07.xhtml#sec1"/></navPoint>
+<navPoint id="i244" playOrder="244"><navLabel><text>2. Avbest&#228;llning</text></navLabel><content src="kapitel07.xhtml#sec2"/></navPoint>
+<navPoint id="i245" playOrder="245"><navLabel><text>3. Hinderskostnader</text></navLabel><content src="kapitel07.xhtml#sec3"/></navPoint>
+<navPoint id="i246" playOrder="246"><navLabel><text>4. St&#228;llkostnader vid str&#246;ml&#246;shet</text></navLabel><content src="kapitel07.xhtml#sec4"/></navPoint>
+<navPoint id="i247" playOrder="247"><navLabel><text>5. Ers&#228;ttning vid avbest&#228;llning</text></navLabel><content src="kapitel07.xhtml#sec5"/></navPoint>
+<navPoint id="i248" playOrder="248"><navLabel><text>6. F&#246;rsening eller felansvar?</text></navLabel><content src="kapitel07.xhtml#sec6"/></navPoint>
+<navPoint id="i249" playOrder="249"><navLabel><text>7. Material fr&#229;n privatkund</text></navLabel><content src="kapitel07.xhtml#sec7"/></navPoint>
+<navPoint id="i250" playOrder="250"><navLabel><text>8. Skadest&#229;ndsansvar gentemot best&#228;llarens hyresg&#228;ster?</text></navLabel><content src="kapitel07.xhtml#sec8"/></navPoint>
+<navPoint id="i251" playOrder="251"><navLabel><text>9. R&#228;tt att avhj&#228;lpa skador?</text></navLabel><content src="kapitel07.xhtml#sec9"/></navPoint>
+<navPoint id="i252" playOrder="252"><navLabel><text>10. Skillnaden mellan avbest&#228;llning och h&#228;vning</text></navLabel><content src="kapitel07.xhtml#sec10"/></navPoint>
+<navPoint id="i253" playOrder="253"><navLabel><text>11. Inneh&#229;llna medel f&#246;r fel</text></navLabel><content src="kapitel07.xhtml#sec11"/></navPoint>
+<navPoint id="i254" playOrder="254"><navLabel><text>12. Vite/skadest&#229;nd vid konsumententreprenad</text></navLabel><content src="kapitel07.xhtml#sec12"/></navPoint>
+<navPoint id="i255" playOrder="255"><navLabel><text>13. Strikt ansvar f&#246;r skador p&#229; entreprenaden</text></navLabel><content src="kapitel07.xhtml#sec13"/></navPoint>
+<navPoint id="i256" playOrder="256"><navLabel><text>14. Gr&#228;vningsarbeten har gett sprickor p&#229; grannfastigheten</text></navLabel><content src="kapitel07.xhtml#sec14"/></navPoint>
+<navPoint id="i257" playOrder="257"><navLabel><text>15. Fel i badrum d&#228;r fastigheten s&#229;lts</text></navLabel><content src="kapitel07.xhtml#sec15"/></navPoint>
+<navPoint id="i258" playOrder="258"><navLabel><text>16. Parallella viten</text></navLabel><content src="kapitel07.xhtml#sec16"/></navPoint>
+<navPoint id="i259" playOrder="259"><navLabel><text>17. Vite eller skadest&#229;nd vid f&#246;rsening</text></navLabel><content src="kapitel07.xhtml#sec17"/></navPoint>
+<navPoint id="i260" playOrder="260"><navLabel><text>18. Fel material &#8211; vems &#228;r felet?</text></navLabel><content src="kapitel07.xhtml#sec18"/></navPoint>
+<navPoint id="i261" playOrder="261"><navLabel><text>19. Tilltr&#228;de f&#246;r avhj&#228;lpande av fel</text></navLabel><content src="kapitel07.xhtml#sec19"/></navPoint>
+<navPoint id="i262" playOrder="262"><navLabel><text>20. Ingen ers&#228;ttning trots fel i entreprenad</text></navLabel><content src="kapitel07.xhtml#sec20"/></navPoint>
+<navPoint id="i263" playOrder="263"><navLabel><text>21. Ansvar f&#246;r leverans av monteringsf&#228;rdigt sm&#229;hus</text></navLabel><content src="kapitel07.xhtml#sec21"/></navPoint>
+<navPoint id="i264" playOrder="264"><navLabel><text>22. Reklamation av funktionskrav</text></navLabel><content src="kapitel07.xhtml#sec22"/></navPoint>
+<navPoint id="i265" playOrder="265"><navLabel><text>23. &#214;verl&#229;telsef&#246;rbud vid konsumententreprenader</text></navLabel><content src="kapitel07.xhtml#sec23"/></navPoint>
+<navPoint id="i266" playOrder="266"><navLabel><text>24. R&#228;tt att avhj&#228;lpa fel vid byggentreprenader?</text></navLabel><content src="kapitel07.xhtml#sec24"/></navPoint>
+<navPoint id="i267" playOrder="267"><navLabel><text>25. Vem har egentligen felansvar vid f&#246;nsterk&#246;p?</text></navLabel><content src="kapitel07.xhtml#sec25"/></navPoint>
+<navPoint id="i268" playOrder="268"><navLabel><text>26. Hur l&#228;nge f&#229;r en best&#228;llare inneh&#229;lla ett belopp f&#246;r fel?</text></navLabel><content src="kapitel07.xhtml#sec26"/></navPoint>
+<navPoint id="i269" playOrder="269"><navLabel><text>27. Fixad &#8221;B-anm&#228;rkning&#8221; kan det utg&#246;ra &#196;TA-arbete?</text></navLabel><content src="kapitel07.xhtml#sec27"/></navPoint>
+<navPoint id="i270" playOrder="270"><navLabel><text>28. Vem betalar n&#228;r felaktigt material m&#229;ste bytas?</text></navLabel><content src="kapitel07.xhtml#sec28"/></navPoint></navPoint>
+<navPoint id="i271" playOrder="271"><navLabel><text>8. Offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#chapter08"/>
+<navPoint id="i272" playOrder="272"><navLabel><text>1. LOU &#8211; tidsfrist vid &#246;verpr&#246;vning</text></navLabel><content src="kapitel08.xhtml#sec1"/></navPoint>
+<navPoint id="i273" playOrder="273"><navLabel><text>2. Referenser vid offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#sec2"/></navPoint>
+<navPoint id="i274" playOrder="274"><navLabel><text>3. Ramavtal</text></navLabel><content src="kapitel08.xhtml#sec3"/></navPoint>
+<navPoint id="i275" playOrder="275"><navLabel><text>4. F&#246;r l&#229;gt anbud</text></navLabel><content src="kapitel08.xhtml#sec4"/></navPoint>
+<navPoint id="i276" playOrder="276"><navLabel><text>5. Kr&#228;va motivering fr&#229;n myndighet</text></navLabel><content src="kapitel08.xhtml#sec5"/></navPoint>
+<navPoint id="i277" playOrder="277"><navLabel><text>6. Sekretess i offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#sec6"/></navPoint>
+<navPoint id="i278" playOrder="278"><navLabel><text>7. Taler&#228;tt enligt LOU</text></navLabel><content src="kapitel08.xhtml#sec7"/></navPoint>
+<navPoint id="i279" playOrder="279"><navLabel><text>8. Upphandling i strid med ramavtal</text></navLabel><content src="kapitel08.xhtml#sec8"/></navPoint>
+<navPoint id="i280" playOrder="280"><navLabel><text>9. Direktupphandling</text></navLabel><content src="kapitel08.xhtml#sec9"/></navPoint>
+<navPoint id="i281" playOrder="281"><navLabel><text>10. Sidoanbud, vad g&#228;ller?</text></navLabel><content src="kapitel08.xhtml#sec10"/></navPoint>
+<navPoint id="i282" playOrder="282"><navLabel><text>11. Risk att beg&#228;ra mer betalt vid upphandling</text></navLabel><content src="kapitel08.xhtml#sec11"/></navPoint>
+<navPoint id="i283" playOrder="283"><navLabel><text>12. Har vi r&#228;tt att f&#229; ut konkurrentens anbud?</text></navLabel><content src="kapitel08.xhtml#sec12"/></navPoint>
+<navPoint id="i284" playOrder="284"><navLabel><text>13. &#214;verpr&#246;vning vid offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#sec13"/></navPoint>
+<navPoint id="i285" playOrder="285"><navLabel><text>14. F&#246;rhandlat f&#246;rfarande</text></navLabel><content src="kapitel08.xhtml#sec14"/></navPoint>
+<navPoint id="i286" playOrder="286"><navLabel><text>15. Kan giltighetstiden f&#246;r anbud f&#246;rl&#228;ngas?</text></navLabel><content src="kapitel08.xhtml#sec15"/></navPoint>
+<navPoint id="i287" playOrder="287"><navLabel><text>16. &#197;beropa annat f&#246;retags kapacitet f&#246;r att vinna upphandlingen</text></navLabel><content src="kapitel08.xhtml#sec16"/></navPoint>
+<navPoint id="i288" playOrder="288"><navLabel><text>17. Krav p&#229; oms&#228;ttning i en offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#sec17"/></navPoint>
+<navPoint id="i289" playOrder="289"><navLabel><text>18. F&#246;rl&#228;ngning av anbuds giltighetstid</text></navLabel><content src="kapitel08.xhtml#sec18"/></navPoint>
+<navPoint id="i290" playOrder="290"><navLabel><text>19. Vad h&#228;nder vid &#246;verpr&#246;vning?</text></navLabel><content src="kapitel08.xhtml#sec19"/></navPoint>
+<navPoint id="i291" playOrder="291"><navLabel><text>20. Vad har vi f&#246;r r&#228;tt att f&#246;rsvara v&#229;rt anbud?</text></navLabel><content src="kapitel08.xhtml#sec20"/></navPoint>
+<navPoint id="i292" playOrder="292"><navLabel><text>21. F&#229;r man pruta p&#229; offentliga anbud?</text></navLabel><content src="kapitel08.xhtml#sec21"/></navPoint>
+<navPoint id="i293" playOrder="293"><navLabel><text>22. N&#228;r &#228;r en upphandling avslutad?</text></navLabel><content src="kapitel08.xhtml#sec22"/></navPoint>
+<navPoint id="i294" playOrder="294"><navLabel><text>23. R&#228;tt till skadest&#229;nd om avtal h&#228;vs utan grund?</text></navLabel><content src="kapitel08.xhtml#sec23"/></navPoint>
+<navPoint id="i295" playOrder="295"><navLabel><text>24. G&#229;r tilldelningsbeslut att &#229;terkalla?</text></navLabel><content src="kapitel08.xhtml#sec24"/></navPoint>
+<navPoint id="i296" playOrder="296"><navLabel><text>25. Kan vi f&#229; ers&#228;ttning f&#246;r en avbruten upphandling?</text></navLabel><content src="kapitel08.xhtml#sec25"/></navPoint>
+<navPoint id="i297" playOrder="297"><navLabel><text>26. Ramavtal &#8211; vad &#228;r det egentligen?</text></navLabel><content src="kapitel08.xhtml#sec26"/></navPoint>
+<navPoint id="i298" playOrder="298"><navLabel><text>27. Offentlig upphandling genom lottning?</text></navLabel><content src="kapitel08.xhtml#sec27"/></navPoint>
+<navPoint id="i299" playOrder="299"><navLabel><text>28. M&#229;ste anbud l&#228;mnas in elektroniskt enligt nya LOU?</text></navLabel><content src="kapitel08.xhtml#sec28"/></navPoint>
+<navPoint id="i300" playOrder="300"><navLabel><text>29. Onormalt l&#229;ga anbud &#8211; hur ser kraven ut?</text></navLabel><content src="kapitel08.xhtml#sec29"/></navPoint>
+<navPoint id="i301" playOrder="301"><navLabel><text>30. Belastningsregisterutdrag vid offentlig upphandling</text></navLabel><content src="kapitel08.xhtml#sec30"/></navPoint>
+<navPoint id="i302" playOrder="302"><navLabel><text>31. Likv&#228;rdiga varor &#8211; hur stora &#228;r riskerna?</text></navLabel><content src="kapitel08.xhtml#sec31"/></navPoint>
+<navPoint id="i303" playOrder="303"><navLabel><text>32. Upphandling utan f&#246;reg&#229;ende annonsering</text></navLabel><content src="kapitel08.xhtml#sec32"/></navPoint>
+<navPoint id="i304" playOrder="304"><navLabel><text>33. Kan ett kommunalt bolag ta betalt f&#246;r allm&#228;nna handlingar?</text></navLabel><content src="kapitel08.xhtml#sec33"/></navPoint>
+<navPoint id="i305" playOrder="305"><navLabel><text>34. Upphandlande myndigheters skyldighet till likabehandling</text></navLabel><content src="kapitel08.xhtml#sec34"/></navPoint>
+<navPoint id="i306" playOrder="306"><navLabel><text>35. Var g&#229;r gr&#228;nsen f&#246;r l&#229;gt anbud vid en upphandling?</text></navLabel><content src="kapitel08.xhtml#sec35"/></navPoint>
+<navPoint id="i307" playOrder="307"><navLabel><text>36. Nya uppgifter i f&#246;rfr&#229;gningsunderlag</text></navLabel><content src="kapitel08.xhtml#sec36"/></navPoint>
+<navPoint id="i308" playOrder="308"><navLabel><text>37. N&#228;r kan en upphandlande myndighet avbryta en upphandling?</text></navLabel><content src="kapitel08.xhtml#sec37"/></navPoint>
+<navPoint id="i309" playOrder="309"><navLabel><text>38. &#196;r det okej att r&#228;tta fel i anbud?</text></navLabel><content src="kapitel08.xhtml#sec38"/></navPoint></navPoint>
+<navPoint id="i310" playOrder="310"><navLabel><text>9. &#214;vrigt</text></navLabel><content src="kapitel09.xhtml#chapter09"/>
+<navPoint id="i311" playOrder="311"><navLabel><text>1. Personalliggare i byggbranschen</text></navLabel><content src="kapitel09.xhtml#sec1"/></navPoint>
+<navPoint id="i312" playOrder="312"><navLabel><text>2. L&#246;pande r&#228;kning och elektronisk personalliggare</text></navLabel><content src="kapitel09.xhtml#sec2"/></navPoint>
+<navPoint id="i313" playOrder="313"><navLabel><text>3. F&#246;rs&#228;kring enligt ABS 09</text></navLabel><content src="kapitel09.xhtml#sec3"/></navPoint>
+<navPoint id="i314" playOrder="314"><navLabel><text>4. Elektronisk personalliggare vid byggarbetsplatser</text></navLabel><content src="kapitel09.xhtml#sec4"/></navPoint>
+<navPoint id="i315" playOrder="315"><navLabel><text>5. Uppgifter fr&#229;n elektronisk personalliggare f&#246;r annat &#228;ndam&#229;l</text></navLabel><content src="kapitel09.xhtml#sec5"/></navPoint>
+<navPoint id="i316" playOrder="316"><navLabel><text>6. Vi &#228;r oense om vad som &#228;r en &#8221;underentreprenad&#8221;</text></navLabel><content src="kapitel09.xhtml#sec6"/></navPoint></navPoint>
+<navPoint id="i317" playOrder="317"><navLabel><text>Tabell med koppling mellan paragrafer o. dyl. och nummer p&#229; fr&#229;gor-svar</text></navLabel><content src="tabell_med_koppling.xhtml"/></navPoint>
+<navPoint id="i318" playOrder="318"><navLabel><text>Sakordsregister</text></navLabel><content src="sakordsregister.xhtml"/></navPoint>
+</navMap>
+</ncx>

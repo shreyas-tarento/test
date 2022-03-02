@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ISBN9789173339582" version="3.0" xml:lang="sv" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>300 fr&#229;gor och svar om entreprenadjuridik</dc:title>
+<dc:identifier id="ISBN9789173339582">9789173339582</dc:identifier>
+<dc:publisher>svenskbyggtjänst</dc:publisher>
+<dc:language>sv</dc:language>
+<dc:type>Text</dc:type>
+<dc:format>229 pages</dc:format>
+<dc:rights>All rights reserved</dc:rights>
+<meta name="cover" content="cover-image"/>
+<meta name="generator" content="GeeThik"/>
+<meta property="dcterms:modified">2019-02-26T09:00:00Z</meta>
+</metadata>
+<manifest>
+<item id="ncx" href="xhtml/toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+<item id="stylesheet" href="styles/stylesheet.css" media-type="text/css"/>
+	<item id="omslag" href="xhtml/omslag.xhtml" media-type="application/xhtml+xml"/>
+	<item id="titel" href="xhtml/titel.xhtml" media-type="application/xhtml+xml"/>
+	<item id="upphovsratt" href="xhtml/upphovsratt.xhtml" media-type="application/xhtml+xml"/>
+	<item id="forord" href="xhtml/forord.xhtml" media-type="application/xhtml+xml"/>
+	<item id="innehall" href="xhtml/innehall.xhtml" media-type="application/xhtml+xml"/>
+	<item id="forkortningar" href="xhtml/forkortningar.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel01" href="xhtml/kapitel01.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel02" href="xhtml/kapitel02.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel03" href="xhtml/kapitel03.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel04" href="xhtml/kapitel04.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel05" href="xhtml/kapitel05.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel06" href="xhtml/kapitel06.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel07" href="xhtml/kapitel07.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel08" href="xhtml/kapitel08.xhtml" media-type="application/xhtml+xml"/>
+	<item id="kapitel09" href="xhtml/kapitel09.xhtml" media-type="application/xhtml+xml"/>
+	<item id="tabell_med_koppling" href="xhtml/tabell_med_koppling.xhtml" media-type="application/xhtml+xml"/>
+	<item id="sakordsregister" href="xhtml/sakordsregister.xhtml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+	<item id="titlei" href="images/title.png" media-type="image/png"/>
+	<item id="f0004-01" href="images/f0004-01.jpg" media-type="image/jpeg"/>
+	<item id="f0016-01" href="images/f0016-01.jpg" media-type="image/jpeg"/>
+	<item id="f0062-01" href="images/f0062-01.jpg" media-type="image/jpeg"/>
+	<item id="f0080-01" href="images/f0080-01.jpg" media-type="image/jpeg"/>
+	<item id="f0098-01" href="images/f0098-01.jpg" media-type="image/jpeg"/>
+	<item id="f0108-01" href="images/f0108-01.jpg" media-type="image/jpeg"/>
+	<item id="f0142-01" href="images/f0142-01.jpg" media-type="image/jpeg"/>
+	<item id="f0160-01" href="images/f0160-01.jpg" media-type="image/jpeg"/>
+	<item id="f0178-01" href="images/f0178-01.jpg" media-type="image/jpeg"/>
+	<item id="f0202-01" href="images/f0202-01.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="omslag"/>
+<itemref idref="titel"/>
+<itemref idref="upphovsratt"/>
+<itemref idref="forord"/>
+<itemref idref="innehall"/>
+<itemref idref="forkortningar"/>
+<itemref idref="kapitel01"/>
+<itemref idref="kapitel02"/>
+<itemref idref="kapitel03"/>
+<itemref idref="kapitel04"/>
+<itemref idref="kapitel05"/>
+<itemref idref="kapitel06"/>
+<itemref idref="kapitel07"/>
+<itemref idref="kapitel08"/>
+<itemref idref="kapitel09"/>
+<itemref idref="tabell_med_koppling"/>
+<itemref idref="sakordsregister"/>
+</spine>
+</package>
