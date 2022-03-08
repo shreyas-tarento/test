@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="URN:ISBN:9789179170677"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="895"/>
+<meta name="dtb:maxPageNumber" content="895"/>
+</head>
+<docTitle>
+<text>AMA Hus 21</text>
+</docTitle>
+<navMap>
+<navPoint id="toc1" playOrder="1"><navLabel><text>Omslag</text></navLabel><content src="omslag.html"/></navPoint>
+<navPoint id="toc2" playOrder="2"><navLabel><text>Title</text></navLabel><content src="title.html"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="copyright.html"/></navPoint>
+<navPoint id="toc4" playOrder="4"><navLabel><text>Inneh&#229;llsf&#246;rteckning</text></navLabel><content src="innehall.html"/></navPoint>
+<navPoint id="toc5" playOrder="5"><navLabel><text>F&#246;rord</text></navLabel><content src="forord.html"/></navPoint>
+<navPoint id="toc6" playOrder="6"><navLabel><text>Regler f&#246;r samband mellan teknisk beskrivning och AMA</text></navLabel><content src="fm01.html"/></navPoint>
+<navPoint id="toc7" playOrder="7"><navLabel><text>0 Sammansatta byggdelar och installationssystem</text></navLabel><content src="kapitel01.html#page_0"/></navPoint>
+<navPoint id="toc8" playOrder="8"><navLabel><text>01 Sammansatta byggdelar</text></navLabel><content src="kapitel01.html#i01"/></navPoint>
+<navPoint id="toc9" playOrder="9"><navLabel><text>1 Undergrund, underbyggnad, skyddande lager i mark, grundkonstruktioner och st&#246;dkonstruktioner</text></navLabel><content src="kapitel02.html#i1"/></navPoint>
+<navPoint id="toc10" playOrder="10"><navLabel><text>15 Grundkonstruktioner</text></navLabel><content src="kapitel02.html#i15"/></navPoint>
+<navPoint id="toc11" playOrder="11"><navLabel><text>2 B&#228;rverk</text></navLabel><content src="kapitel03.html#i2"/></navPoint>
+<navPoint id="toc12" playOrder="12"><navLabel><text>27 B&#228;rverk i husstomme</text></navLabel><content src="kapitel03.html#i27"/></navPoint>
+<navPoint id="toc13" playOrder="13"><navLabel><text>4 Rumsbildande byggdelar, huskompletteringar, ytskikt och rumskompletteringar</text></navLabel><content src="kapitel04.html#i4"/></navPoint>
+<navPoint id="toc14" playOrder="14"><navLabel><text>41 Klimatskiljande delar och kompletteringar i yttertak och ytterbj&#228;lklag</text></navLabel><content src="kapitel04.html#i41"/></navPoint>
+<navPoint id="toc15" playOrder="15"><navLabel><text>42 Klimatskiljande delar och kompletteringar i ytterv&#228;gg</text></navLabel><content src="kapitel04.html#i42"/></navPoint>
+<navPoint id="toc16" playOrder="16"><navLabel><text>43 Inre rumsbildande byggdelar</text></navLabel><content src="kapitel04.html#i43"/></navPoint>
+<navPoint id="toc17" playOrder="17"><navLabel><text>44 Inv&#228;ndiga ytskikt</text></navLabel><content src="kapitel04.html#i44"/></navPoint>
+<navPoint id="toc18" playOrder="18"><navLabel><text>44.B Ytskikt p&#229; golv och trappor</text></navLabel><content src="kapitel04.html#i44a"/></navPoint>
+<navPoint id="toc19" playOrder="19"><navLabel><text>44.C Ytskikt p&#229; v&#228;ggar</text></navLabel><content src="kapitel04.html#i44.Z"/></navPoint>
+<navPoint id="toc20" playOrder="20"><navLabel><text>45 Huskompletteringar</text></navLabel><content src="kapitel04.html#i45"/></navPoint>
+<navPoint id="toc21" playOrder="21"><navLabel><text>49 &#214;vriga rumsbildande byggdelar, huskompletteringar, ytskikt och rumskompletteringar</text></navLabel><content src="kapitel04.html#i49"/></navPoint>
+<navPoint id="toc22" playOrder="22"><navLabel><text>B F&#246;rarbeten, hj&#228;lparbeten, saneringsarbeten, flyttning, demontering, rivning, r&#246;jning m m</text></navLabel><content src="kapitel05.html#B"/></navPoint>
+<navPoint id="toc23" playOrder="23"><navLabel><text>BB F&#246;rarbeten</text></navLabel><content src="kapitel05.html#BB"/></navPoint>
+<navPoint id="toc24" playOrder="24"><navLabel><text>BBC Unders&#246;kningar o d</text></navLabel><content src="kapitel05.html#BBC"/></navPoint>
+<navPoint id="toc25" playOrder="25"><navLabel><text>BD Saneringsarbeten</text></navLabel><content src="kapitel05.html#BD"/></navPoint>
+<navPoint id="toc26" playOrder="26"><navLabel><text>BDS Saneringsarbeten f&#246;r hus</text></navLabel><content src="kapitel05.html#BDS"/></navPoint>
+<navPoint id="toc27" playOrder="27"><navLabel><text>BE Flyttning, demontering och rivning</text></navLabel><content src="kapitel05.html#BE"/></navPoint>
+<navPoint id="toc28" playOrder="28"><navLabel><text>BEC Demontering</text></navLabel><content src="kapitel05.html#BEC"/></navPoint>
+<navPoint id="toc29" playOrder="29"><navLabel><text>BED Rivning</text></navLabel><content src="kapitel05.html#BED"/></navPoint>
+<navPoint id="toc30" playOrder="30"><navLabel><text>BJ Geodetiska m&#228;tningsarbeten</text></navLabel><content src="kapitel05.html#BJ"/></navPoint>
+<navPoint id="toc31" playOrder="31"><navLabel><text>BJC Geodetiska m&#228;tningsarbeten f&#246;r hus</text></navLabel><content src="kapitel05.html#BJC"/></navPoint>
+<navPoint id="toc32" playOrder="32"><navLabel><text>E Platsgjutna konstruktioner</text></navLabel><content src="kapitel06.html#E"/></navPoint>
+<navPoint id="toc33" playOrder="33"><navLabel><text>ES Platsgjutna konstruktioner f&#246;r hus</text></navLabel><content src="kapitel06.html#ES"/></navPoint>
+<navPoint id="toc34" playOrder="34"><navLabel><text>ESB Formar f&#246;r betonggjutning i hus</text></navLabel><content src="kapitel06.html#ESB"/></navPoint>
+<navPoint id="toc35" playOrder="35"><navLabel><text>ESC Armering, ingjutningsgods, fogband m m i hus</text></navLabel><content src="kapitel06.html#ESC"/></navPoint>
+<navPoint id="toc36" playOrder="36"><navLabel><text>ESE Betonggjutningar i hus</text></navLabel><content src="kapitel06.html#ESE"/></navPoint>
+<navPoint id="toc37" playOrder="37"><navLabel><text>ESM Efterbearbetningar av h&#229;rdnad betongyta i hus</text></navLabel><content src="kapitel06.html#ESM"/></navPoint>
+<navPoint id="toc38" playOrder="38"><navLabel><text>F Murverk</text></navLabel><content src="kapitel07.html#F"/></navPoint>
+<navPoint id="toc39" playOrder="39"><navLabel><text>FS Murverk i hus</text></navLabel><content src="kapitel07.html#FS"/></navPoint>
+<navPoint id="toc40" playOrder="40"><navLabel><text>FSC Murverk av kalksandsten i hus</text></navLabel><content src="kapitel07.html#FSC"/></navPoint>
+<navPoint id="toc41" playOrder="41"><navLabel><text>FSD Murverk av betongsten, betongblock e d i hus</text></navLabel><content src="kapitel07.html#FSD"/></navPoint>
+<navPoint id="toc42" playOrder="42"><navLabel><text>FSE Murverk av autoklaverad l&#228;ttbetong i hus</text></navLabel><content src="kapitel07.html#FSE"/></navPoint>
+<navPoint id="toc43" playOrder="43"><navLabel><text>FSF Murverk av l&#228;ttklinkerbetong i hus</text></navLabel><content src="kapitel07.html#FSF"/></navPoint>
+<navPoint id="toc44" playOrder="44"><navLabel><text>FSG Murverk av tegel i hus</text></navLabel><content src="kapitel07.html#FSG"/></navPoint>
+<navPoint id="toc45" playOrder="45"><navLabel><text>FSH Murverk av eldfast material i hus</text></navLabel><content src="kapitel07.html#FSH"/></navPoint>
+<navPoint id="toc46" playOrder="46"><navLabel><text>FSJ Murverk av glasblock i hus</text></navLabel><content src="kapitel07.html#FSJ"/></navPoint>
+<navPoint id="toc47" playOrder="47"><navLabel><text>G Konstruktioner av monteringsf&#228;rdiga element</text></navLabel><content src="kapitel08.html#G"/></navPoint>
+<navPoint id="toc48" playOrder="48"><navLabel><text>GS Konstruktioner av monteringsf&#228;rdiga element i hus</text></navLabel><content src="kapitel08.html#GS"/></navPoint>
+<navPoint id="toc49" playOrder="49"><navLabel><text>GSC Konstruktioner av betongelement i hus</text></navLabel><content src="kapitel08.html#GSC"/></navPoint>
+<navPoint id="toc50" playOrder="50"><navLabel><text>GSE Konstruktioner av element av autoklaverad l&#228;ttbetong i hus</text></navLabel><content src="kapitel08.html#GSE"/></navPoint>
+<navPoint id="toc51" playOrder="51"><navLabel><text>GSG Konstruktioner av element av l&#228;ttklinkerbetong i hus</text></navLabel><content src="kapitel08.html#GSG"/></navPoint>
+<navPoint id="toc52" playOrder="52"><navLabel><text>GSH Konstruktioner av tegelelement i hus</text></navLabel><content src="kapitel08.html#GSH"/></navPoint>
+<navPoint id="toc53" playOrder="53"><navLabel><text>GSM Konstruktioner av metallelement i hus</text></navLabel><content src="kapitel08.html#GSM"/></navPoint>
+<navPoint id="toc54" playOrder="54"><navLabel><text>GSN Konstruktioner av element av tr&#228; eller tr&#228;baserat material i hus</text></navLabel><content src="kapitel08.html#GSN"/></navPoint>
+<navPoint id="toc55" playOrder="55"><navLabel><text>GSP Konstruktioner av isolerelement f&#246;r hus</text></navLabel><content src="kapitel08.html#GSP"/></navPoint>
+<navPoint id="toc56" playOrder="56"><navLabel><text>GSR Konstruktioner av glaselement i hus</text></navLabel><content src="kapitel08.html#GSR"/></navPoint>
+<navPoint id="toc57" playOrder="57"><navLabel><text>GSY Konstruktioner av element av diverse material i hus</text></navLabel><content src="kapitel08.html#GSY"/></navPoint>
+<navPoint id="toc58" playOrder="58"><navLabel><text>H Konstruktioner av l&#228;ngdformvaror</text></navLabel><content src="kapitel09.html#H"/></navPoint>
+<navPoint id="toc59" playOrder="59"><navLabel><text>HS Konstruktioner av l&#228;ngdformvaror i hus</text></navLabel><content src="kapitel09.html#HS"/></navPoint>
+<navPoint id="toc60" playOrder="60"><navLabel><text>HSB Konstruktioner av l&#228;ngdformvaror av metall i hus</text></navLabel><content src="kapitel09.html#HSB"/></navPoint>
+<navPoint id="toc61" playOrder="61"><navLabel><text>HSD Konstruktioner av l&#228;ngdformvaror av tr&#228; i hus</text></navLabel><content src="kapitel09.html#HSD"/></navPoint>
+<navPoint id="toc62" playOrder="62"><navLabel><text>I Skikt av termoisolervaror m m i hus och i grundkonstruktioner till hus</text></navLabel><content src="kapitel10.html#I"/></navPoint>
+<navPoint id="toc63" playOrder="63"><navLabel><text>IB Termisk isolering m m i hus (ej platsbyggt kyl-eller frysrum)</text></navLabel><content src="kapitel10.html#IB"/></navPoint>
+<navPoint id="toc64" playOrder="64"><navLabel><text>IBC Termisk isolering av grundkonstruktion</text></navLabel><content src="kapitel10.html#IBC"/></navPoint>
+<navPoint id="toc65" playOrder="65"><navLabel><text>IBE Termisk isolering av ytterv&#228;gg</text></navLabel><content src="kapitel10.html#IBE"/></navPoint>
+<navPoint id="toc66" playOrder="66"><navLabel><text>IBF Termisk isolering av bj&#228;lklag</text></navLabel><content src="kapitel10.html#IBF"/></navPoint>
+<navPoint id="toc67" playOrder="67"><navLabel><text>IBG Termisk isolering av yttertak eller ytterbj&#228;lklag</text></navLabel><content src="kapitel10.html#IBG"/></navPoint>
+<navPoint id="toc68" playOrder="68"><navLabel><text>IBK Termisk isolering i skorsten, schakt e d</text></navLabel><content src="kapitel10.html#IBK"/></navPoint>
+<navPoint id="toc69" playOrder="69"><navLabel><text>IC Termisk isolering av platsbyggda kyl- och frysrum samt kyl- och fryshus</text></navLabel><content src="kapitel10.html#IC"/></navPoint>
+<navPoint id="toc70" playOrder="70"><navLabel><text>ICB Termisk isolering av kylrum</text></navLabel><content src="kapitel10.html#ICB"/></navPoint>
+<navPoint id="toc71" playOrder="71"><navLabel><text>ICC Termisk isolering av frysrum</text></navLabel><content src="kapitel10.html#ICC"/></navPoint>
+<navPoint id="toc72" playOrder="72"><navLabel><text>ICE Termisk isolering av kylhus</text></navLabel><content src="kapitel10.html#ICE"/></navPoint>
+<navPoint id="toc73" playOrder="73"><navLabel><text>ICF Termisk isolering av fryshus</text></navLabel><content src="kapitel10.html#ICF"/></navPoint>
+<navPoint id="toc74" playOrder="74"><navLabel><text>J Skikt av byggpapp, t&#228;tskiktsmatta, asfalt, duk, plastfilm, plan pl&#229;t,&#246;verl&#228;ggsplattor e d</text></navLabel><content src="kapitel11.html#J"/></navPoint>
+<navPoint id="toc75" playOrder="75"><navLabel><text>JS Skikt av byggpapp, t&#228;tskiktsmatta, asfalt, duk, plastfilm e d i hus</text></navLabel><content src="kapitel11.html#JS"/></navPoint>
+<navPoint id="toc76" playOrder="76"><navLabel><text>JSB Underlagst&#228;ckningar av byggpapp, underlagsduk e d f&#246;r t&#228;tskiktsmattor, plan pl&#229;t och &#246;verl&#228;ggsplattor i hus</text></navLabel><content src="kapitel11.html#JSB"/></navPoint>
+<navPoint id="toc77" playOrder="77"><navLabel><text>JSC Underlagstak av duk e d f&#246;r &#246;verl&#228;ggsplattor i hus</text></navLabel><content src="kapitel11.html#JSC"/></navPoint>
+<navPoint id="toc78" playOrder="78"><navLabel><text>JSD Skiljeskikt av plastfilm, byggpapp, filt m m i hus</text></navLabel><content src="kapitel11.html#JSD"/></navPoint>
+<navPoint id="toc79" playOrder="79"><navLabel><text>JSE Vattent&#228;ta skikt av asfalt, duk, folie e d i hus</text></navLabel><content src="kapitel11.html#JSE"/></navPoint>
+<navPoint id="toc80" playOrder="80"><navLabel><text>JSF Fuktskyddsskikt av t&#228;tskiktsmatta, duk, plastfilm m m i hus</text></navLabel><content src="kapitel11.html#JSF"/></navPoint>
+<navPoint id="toc81" playOrder="81"><navLabel><text>JSG Vindskyddsskikt av papp, plastfilm m m i hus</text></navLabel><content src="kapitel11.html#JSG"/></navPoint>
+<navPoint id="toc82" playOrder="82"><navLabel><text>JT Takt&#228;ckningar och v&#228;ggbekl&#228;dnader samt kompletteringar av plan pl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11.html#JT"/></navPoint>
+<navPoint id="toc83" playOrder="83"><navLabel><text>JTB Takt&#228;ckningar, v&#228;ggbekl&#228;dnader, kompletteringar m m av plan metalliserad st&#229;lpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11.html#JTB"/></navPoint>
+<navPoint id="toc84" playOrder="84"><navLabel><text>JTC Takt&#228;ckningar, v&#228;ggbekl&#228;dnader, kompletteringar m m av plan pl&#229;t av rostfritt st&#229;l f&#246;r hus</text></navLabel><content src="kapitel11.html#JTC"/></navPoint>
+<navPoint id="toc85" playOrder="85"><navLabel><text>JTD Takt&#228;ckningar, v&#228;ggbekl&#228;dnader, kompletteringar m m av plan aluminiumpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11.html#JTD"/></navPoint>
+<navPoint id="toc86" playOrder="86"><navLabel><text>JTE Takt&#228;ckningar, v&#228;ggbekl&#228;dnader, kompletteringar m m av plan kopparpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11.html#JTE"/></navPoint>
+<navPoint id="toc87" playOrder="87"><navLabel><text>JTG Takt&#228;ckningar, v&#228;ggbekl&#228;dnader, kompletteringar m m av plan titanzinkpl&#229;tf&#246;r hus</text></navLabel><content src="kapitel11a.html#JTG"/></navPoint>
+<navPoint id="toc88" playOrder="88"><navLabel><text>JT-.1 Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av plan pl&#229;t</text></navLabel><content src="kapitel11a.html#JT-.1"/></navPoint>
+<navPoint id="toc89" playOrder="89"><navLabel><text>JT-.2 Kompletteringar av pl&#229;t vid takt&#228;ckning av plan pl&#229;t</text></navLabel><content src="kapitel11a.html#JT-.2"/></navPoint>
+<navPoint id="toc90" playOrder="90"><navLabel><text>JT-.3 Kompletteringar av plan pl&#229;t vid takt&#228;ckning av t&#228;tskiktsmatta, takduk e d</text></navLabel><content src="kapitel11a.html#JT-.3"/></navPoint>
+<navPoint id="toc91" playOrder="91"><navLabel><text>JT-.4 Kompletteringar av plan pl&#229;t vid takt&#228;ckning av &#246;verl&#228;ggsplattor e d</text></navLabel><content src="kapitel11a.html#JT-.4"/></navPoint>
+<navPoint id="toc92" playOrder="92"><navLabel><text>JT-.5 Kompletteringar av plan pl&#229;t till ytterv&#228;gg, mur, bj&#228;lklag e d</text></navLabel><content src="kapitel11a.html#JT-.5"/></navPoint>
+<navPoint id="toc93" playOrder="93"><navLabel><text>JT-.7 Kompletteringar av plan pl&#229;t vid &#246;verbyggnad, takt&#228;ckning och v&#228;ggbekl&#228;dnad av diverse material</text></navLabel><content src="kapitel11a.html#JT-.7"/></navPoint>
+<navPoint id="toc94" playOrder="94"><navLabel><text>JT-.8 Kompletteringar f&#246;r takavvattning</text></navLabel><content src="kapitel11a.html#JT-.8"/></navPoint>
+<navPoint id="toc95" playOrder="95"><navLabel><text>JU Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor e d av natursten, cementbundet material, br&#228;nd lera, tr&#228; m m f&#246;r hus</text></navLabel><content src="kapitel11a.html#JU"/></navPoint>
+<navPoint id="toc96" playOrder="96"><navLabel><text>JUB Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor av natursten</text></navLabel><content src="kapitel11a.html#JUB"/></navPoint>
+<navPoint id="toc97" playOrder="97"><navLabel><text>JUC Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor e d av cementbundet material</text></navLabel><content src="kapitel11a.html#JUC"/></navPoint>
+<navPoint id="toc98" playOrder="98"><navLabel><text>JUE Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor av br&#228;nd lera</text></navLabel><content src="kapitel11a.html#JUE"/></navPoint>
+<navPoint id="toc99" playOrder="99"><navLabel><text>JUH Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor e d av tr&#228;</text></navLabel><content src="kapitel11a.html#JUH"/></navPoint>
+<navPoint id="toc100" playOrder="100"><navLabel><text>JUJ Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor e d av plast</text></navLabel><content src="kapitel11a.html#JUJ"/></navPoint>
+<navPoint id="toc101" playOrder="101"><navLabel><text>JUK Takt&#228;ckningar och v&#228;ggbekl&#228;dnader av &#246;verl&#228;ggsplattor e d av asfaltbaserat material</text></navLabel><content src="kapitel11a.html#JUK"/></navPoint>
+<navPoint id="toc102" playOrder="102"><navLabel><text>JV Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av pl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11a.html#JV"/></navPoint>
+<navPoint id="toc103" playOrder="103"><navLabel><text>JVB Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av metalliserad st&#229;lpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11a.html#JVB"/></navPoint>
+<navPoint id="toc104" playOrder="104"><navLabel><text>JVC Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av pl&#229;t av rostfritt st&#229;l f&#246;r hus</text></navLabel><content src="kapitel11a.html#JVC"/></navPoint>
+<navPoint id="toc105" playOrder="105"><navLabel><text>JVD Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av aluminiumpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11a.html#JVD"/></navPoint>
+<navPoint id="toc106" playOrder="106"><navLabel><text>JVE Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av kopparpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11a.html#JVE"/></navPoint>
+<navPoint id="toc107" playOrder="107"><navLabel><text>JVG Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av titanzinkpl&#229;t f&#246;r hus</text></navLabel><content src="kapitel11a.html#JVG"/></navPoint>
+<navPoint id="toc108" playOrder="108"><navLabel><text>JV-.2 Takt&#228;ckningar och v&#228;ggbekl&#228;dnader m m av &#246;verl&#228;ggsplattor e d av profilerad pl&#229;t</text></navLabel><content src="kapitel11a.html#JV-.2"/></navPoint>
+<navPoint id="toc109" playOrder="109"><navLabel><text>K Skikt av skivor</text></navLabel><content src="kapitel12.html#K"/></navPoint>
+<navPoint id="toc110" playOrder="110"><navLabel><text>KA Skikt av skivor av sammansatt typ</text></navLabel><content src="kapitel12.html#KA"/></navPoint>
+<navPoint id="toc111" playOrder="111"><navLabel><text>KB Skikt av cement-, kalciumsilikat- eller gipsbaserade skivor e d</text></navLabel><content src="kapitel12.html#KB"/></navPoint>
+<navPoint id="toc112" playOrder="112"><navLabel><text>KBB Skikt av fibercement- eller kalciumsilikatskivor</text></navLabel><content src="kapitel12.html#KBB"/></navPoint>
+<navPoint id="toc113" playOrder="113"><navLabel><text>KBC Skikt av gipsbaserade skivor</text></navLabel><content src="kapitel12.html#KBC"/></navPoint>
+<navPoint id="toc114" playOrder="114"><navLabel><text>KBD Skikt av glasfiberkl&#228;dda cementskivor</text></navLabel><content src="kapitel12.html#KBD"/></navPoint>
+<navPoint id="toc115" playOrder="115"><navLabel><text>KD Skikt av metallskivor</text></navLabel><content src="kapitel12.html#KD"/></navPoint>
+<navPoint id="toc116" playOrder="116"><navLabel><text>KDB Skikt av skivor av allm&#228;nt konstruktionsst&#229;l</text></navLabel><content src="kapitel12.html#KDB"/></navPoint>
+<navPoint id="toc117" playOrder="117"><navLabel><text>KDD Skikt av aluminiumskivor</text></navLabel><content src="kapitel12.html#KDD"/></navPoint>
+<navPoint id="toc118" playOrder="118"><navLabel><text>KE Skikt av skivor av tr&#228; eller tr&#228;baserat material</text></navLabel><content src="kapitel12.html#KE"/></navPoint>
+<navPoint id="toc119" playOrder="119"><navLabel><text>KEB Skikt av plywoodskivor</text></navLabel><content src="kapitel12.html#KEB"/></navPoint>
+<navPoint id="toc120" playOrder="120"><navLabel><text>KEC Skikt av lamelltr&#228;skivor</text></navLabel><content src="kapitel12.html#KEC"/></navPoint>
+<navPoint id="toc121" playOrder="121"><navLabel><text>KEG Skikt av tr&#228;fiberskivor</text></navLabel><content src="kapitel12.html#KEG"/></navPoint>
+<navPoint id="toc122" playOrder="122"><navLabel><text>KEH Skikt av impregnerade por&#246;sa tr&#228;fiberskivor</text></navLabel><content src="kapitel12.html#KEH"/></navPoint>
+<navPoint id="toc123" playOrder="123"><navLabel><text>KEJ Skikt av sp&#229;nskivor</text></navLabel><content src="kapitel12.html#KEJ"/></navPoint>
+<navPoint id="toc124" playOrder="124"><navLabel><text>KEK Skikt av cementsp&#229;nskivor</text></navLabel><content src="kapitel12.html#KEK"/></navPoint>
+<navPoint id="toc125" playOrder="125"><navLabel><text>KEL Skikt av osb-skivor</text></navLabel><content src="kapitel12.html#KEL"/></navPoint>
+<navPoint id="toc126" playOrder="126"><navLabel><text>KEN Skikt av fanertr&#228;skivor</text></navLabel><content src="kapitel12.html#KEN"/></navPoint>
+<navPoint id="toc127" playOrder="127"><navLabel><text>KEP Skikt av skivor av korslimmat tr&#228; (kl-tr&#228;)</text></navLabel><content src="kapitel12.html#KEP"/></navPoint>
+<navPoint id="toc128" playOrder="128"><navLabel><text>KF Skikt av skivor av oorganiskt fibermaterial, expanderat stenmaterial e d</text></navLabel><content src="kapitel12.html#KF"/></navPoint>
+<navPoint id="toc129" playOrder="129"><navLabel><text>KFD Skikt av skivor av kalciumsilikatbundet expanderat stenmaterial</text></navLabel><content src="kapitel12.html#KFD"/></navPoint>
+<navPoint id="toc130" playOrder="130"><navLabel><text>KH Skikt av glasskivor</text></navLabel><content src="kapitel12.html#KH"/></navPoint>
+<navPoint id="toc131" playOrder="131"><navLabel><text>KHB Enkelglasrutor</text></navLabel><content src="kapitel12.html#KHB"/></navPoint>
+<navPoint id="toc132" playOrder="132"><navLabel><text>KHC Flerskiktsrutor</text></navLabel><content src="kapitel12.html#KHC"/></navPoint>
+<navPoint id="toc133" playOrder="133"><navLabel><text>KHD F&#246;rseglade rutor</text></navLabel><content src="kapitel12.html#KHD"/></navPoint>
+<navPoint id="toc134" playOrder="134"><navLabel><text>KK Skikt av plastskivor</text></navLabel><content src="kapitel12.html#KK"/></navPoint>
+<navPoint id="toc135" playOrder="135"><navLabel><text>KKB Skikt av skivor av kompakt plast</text></navLabel><content src="kapitel12.html#KKB"/></navPoint>
+<navPoint id="toc136" playOrder="136"><navLabel><text>KKC Skikt av skivor av cellplast e d</text></navLabel><content src="kapitel12.html#KKC"/></navPoint>
+<navPoint id="toc137" playOrder="137"><navLabel><text>KY Skikt av skivor av diverse material</text></navLabel><content src="kapitel12.html#KY"/></navPoint>
+<navPoint id="toc138" playOrder="138"><navLabel><text>KYC Skikt av plastlaminatskivor</text></navLabel><content src="kapitel12.html#KYC"/></navPoint>
+<navPoint id="toc139" playOrder="139"><navLabel><text>KYD Skikt av skivor av fiberarmerad polymerkomposit</text></navLabel><content src="kapitel12.html#KYD"/></navPoint>
+<navPoint id="toc140" playOrder="140"><navLabel><text>L Puts, m&#229;lning, skyddsbel&#228;ggningar, skyddsimpregneringar m m</text></navLabel><content src="kapitel13.html#L"/></navPoint>
+<navPoint id="toc141" playOrder="141"><navLabel><text>LB Puts</text></navLabel><content src="kapitel13.html#LB"/></navPoint>
+<navPoint id="toc142" playOrder="142"><navLabel><text>LBS Puts f&#246;r hus</text></navLabel><content src="kapitel13.html#LBS"/></navPoint>
+<navPoint id="toc143" playOrder="143"><navLabel><text>LC M&#229;lning m m</text></navLabel><content src="kapitel13.html#LC"/></navPoint>
+<navPoint id="toc144" playOrder="144"><navLabel><text>LCS Byggplatsm&#229;lning av hus</text></navLabel><content src="kapitel13.html#LCS"/></navPoint>
+<navPoint id="toc145" playOrder="145"><navLabel><text>LD Skyddsbel&#228;ggning</text></navLabel><content src="kapitel13.html#LD"/></navPoint>
+<navPoint id="toc146" playOrder="146"><navLabel><text>LDS Skyddsbel&#228;ggning i hus</text></navLabel><content src="kapitel13.html#LDS"/></navPoint>
+<navPoint id="toc147" playOrder="147"><navLabel><text>LE Klotterskyddsbehandling</text></navLabel><content src="kapitel13.html#LE"/></navPoint>
+<navPoint id="toc148" playOrder="148"><navLabel><text>LES Klotterskyddsbehandling i hus</text></navLabel><content src="kapitel13.html#LES"/></navPoint>
+<navPoint id="toc149" playOrder="149"><navLabel><text>LF Skyddsimpregnering o d</text></navLabel><content src="kapitel13.html#LF"/></navPoint>
+<navPoint id="toc150" playOrder="150"><navLabel><text>LFS Skyddsimpregnering o d i hus</text></navLabel><content src="kapitel13.html#LFS"/></navPoint>
+<navPoint id="toc151" playOrder="151"><navLabel><text>M Skikt av bel&#228;ggnings- och bekl&#228;dnadsvaror i hus</text></navLabel><content src="kapitel14.html#M"/></navPoint>
+<navPoint id="toc152" playOrder="152"><navLabel><text>MB Bel&#228;ggningar och bekl&#228;dnader av plattor av natursten, betong, konstbetong, keramik, mosaik e d</text></navLabel><content src="kapitel14.html#MB"/></navPoint>
+<navPoint id="toc153" playOrder="153"><navLabel><text>MBB Bel&#228;ggningar och bekl&#228;dnader av plattor av natursten eller konstbetong</text></navLabel><content src="kapitel14.html#MBB"/></navPoint>
+<navPoint id="toc154" playOrder="154"><navLabel><text>MBC Bel&#228;ggningar och bekl&#228;dnader av betongplattor</text></navLabel><content src="kapitel14.html#MBC"/></navPoint>
+<navPoint id="toc155" playOrder="155"><navLabel><text>MBD Bel&#228;ggningar och bekl&#228;dnader av tegelplattor</text></navLabel><content src="kapitel14.html#MBD"/></navPoint>
+<navPoint id="toc156" playOrder="156"><navLabel><text>MBE Bel&#228;ggningar och bekl&#228;dnader av keramiska plattor</text></navLabel><content src="kapitel14.html#MBE"/></navPoint>
+<navPoint id="toc157" playOrder="157"><navLabel><text>MC Bel&#228;ggningar av tr&#228;</text></navLabel><content src="kapitel14.html#MC"/></navPoint>
+<navPoint id="toc158" playOrder="158"><navLabel><text>MCB Bel&#228;ggningar av tr&#228; utomhus</text></navLabel><content src="kapitel14.html#MCB"/></navPoint>
+<navPoint id="toc159" playOrder="159"><navLabel><text>MCC Bel&#228;ggningar av tr&#228; inomhus</text></navLabel><content src="kapitel14.html#MCC"/></navPoint>
+<navPoint id="toc160" playOrder="160"><navLabel><text>ME Bel&#228;ggningar av laminatgolv</text></navLabel><content src="kapitel14.html#ME"/></navPoint>
+<navPoint id="toc161" playOrder="161"><navLabel><text>MEB Bel&#228;ggningar av laminatgolv p&#229; betong eller l&#228;ttbetong</text></navLabel><content src="kapitel14.html#MEB"/></navPoint>
+<navPoint id="toc162" playOrder="162"><navLabel><text>MEC Bel&#228;ggningar av laminatgolv p&#229; skivor av cellplast</text></navLabel><content src="kapitel14.html#MEC"/></navPoint>
+<navPoint id="toc163" playOrder="163"><navLabel><text>MF Bel&#228;ggningar av textil, kork, linoleum, gummi, plast m m och t&#228;tskikt av plastmatta</text></navLabel><content src="kapitel14.html#MF"/></navPoint>
+<navPoint id="toc164" playOrder="164"><navLabel><text>MFB Bel&#228;ggningar av matta eller plattor av textil</text></navLabel><content src="kapitel14.html#MFB"/></navPoint>
+<navPoint id="toc165" playOrder="165"><navLabel><text>MFD Bel&#228;ggningar av korkplattor</text></navLabel><content src="kapitel14.html#MFD"/></navPoint>
+<navPoint id="toc166" playOrder="166"><navLabel><text>MFG Bel&#228;ggningar av matta eller plattor av linoleum</text></navLabel><content src="kapitel14.html#MFG"/></navPoint>
+<navPoint id="toc167" playOrder="167"><navLabel><text>MFH Bel&#228;ggningar av matta eller plattor av gummi</text></navLabel><content src="kapitel14.html#MFH"/></navPoint>
+<navPoint id="toc168" playOrder="168"><navLabel><text>MFK Bel&#228;ggningar av matta eller plattor av plast och t&#228;tskikt av plastmatta</text></navLabel><content src="kapitel14.html#MFK"/></navPoint>
+<navPoint id="toc169" playOrder="169"><navLabel><text>MH Bel&#228;ggningar av massa m m</text></navLabel><content src="kapitel14.html#MH"/></navPoint>
+<navPoint id="toc170" playOrder="170"><navLabel><text>MHB Bel&#228;ggningar av cementmosaikmassa</text></navLabel><content src="kapitel14.html#MHB"/></navPoint>
+<navPoint id="toc171" playOrder="171"><navLabel><text>MHC Bel&#228;ggningar av h&#229;rdbetongmassa</text></navLabel><content src="kapitel14.html#MHC"/></navPoint>
+<navPoint id="toc172" playOrder="172"><navLabel><text>MHD Bel&#228;ggningar av magnesitmassa</text></navLabel><content src="kapitel14.html#MHD"/></navPoint>
+<navPoint id="toc173" playOrder="173"><navLabel><text>MHF Bel&#228;ggningar av bitumenbunden massa</text></navLabel><content src="kapitel14.html#MHF"/></navPoint>
+<navPoint id="toc174" playOrder="174"><navLabel><text>MHG Bel&#228;ggningar av plastbaserad massa</text></navLabel><content src="kapitel14.html#MHG"/></navPoint>
+<navPoint id="toc175" playOrder="175"><navLabel><text>MHJ Bel&#228;ggningar av golvavj&#228;mningsmassa</text></navLabel><content src="kapitel14.html#MHJ"/></navPoint>
+<navPoint id="toc176" playOrder="176"><navLabel><text>MJ Bekl&#228;dnader av textil, kork, linoleum, gummi, plast e d och t&#228;tskikt av plastmatta</text></navLabel><content src="kapitel14.html#MJ"/></navPoint>
+<navPoint id="toc177" playOrder="177"><navLabel><text>MJH Bekl&#228;dnader av matta eller plattor av gummi</text></navLabel><content src="kapitel14.html#MJH"/></navPoint>
+<navPoint id="toc178" playOrder="178"><navLabel><text>MJK Bekl&#228;dnader av matta eller plattor av plast och t&#228;tskikt av plastmatta</text></navLabel><content src="kapitel14.html#MJK"/></navPoint>
+<navPoint id="toc179" playOrder="179"><navLabel><text>MK Bekl&#228;dnader av massa</text></navLabel><content src="kapitel14.html#MK"/></navPoint>
+<navPoint id="toc180" playOrder="180"><navLabel><text>MKB Bekl&#228;dnader av cementmosaikmassa</text></navLabel><content src="kapitel14.html#MKB"/></navPoint>
+<navPoint id="toc181" playOrder="181"><navLabel><text>MKG Bekl&#228;dnader av plastbaserad massa</text></navLabel><content src="kapitel14.html#MKG"/></navPoint>
+<navPoint id="toc182" playOrder="182"><navLabel><text>N Kompletteringar av sakvaror m m</text></navLabel><content src="kapitel15.html#N"/></navPoint>
+<navPoint id="toc183" playOrder="183"><navLabel><text>NS Kompletteringar av sakvaror m m i hus</text></navLabel><content src="kapitel15.html#NS"/></navPoint>
+<navPoint id="toc184" playOrder="184"><navLabel><text>NSB Kompletteringar till bj&#228;lklags&#246;ppningar m m</text></navLabel><content src="kapitel15.html#NSB"/></navPoint>
+<navPoint id="toc185" playOrder="185"><navLabel><text>NSC Kompletteringar till v&#228;gg&#246;ppningar m m</text></navLabel><content src="kapitel15.html#NSC"/></navPoint>
+<navPoint id="toc186" playOrder="186"><navLabel><text>NSD Kompletteringar av yttertaks&#246;ppningar m m</text></navLabel><content src="kapitel15.html#NSD"/></navPoint>
+<navPoint id="toc187" playOrder="187"><navLabel><text>NSE Installationsgolv</text></navLabel><content src="kapitel15.html#NSE"/></navPoint>
+<navPoint id="toc188" playOrder="188"><navLabel><text>NSF Undertak av f&#246;rtillverkade komponenter</text></navLabel><content src="kapitel15.html#NSF"/></navPoint>
+<navPoint id="toc189" playOrder="189"><navLabel><text>NSG Sk&#228;rmv&#228;ggar, apparatinkl&#228;dnader m m</text></navLabel><content src="kapitel15.html#NSG"/></navPoint>
+<navPoint id="toc190" playOrder="190"><navLabel><text>NSJ Tilltr&#228;des- och skyddsanordningar</text></navLabel><content src="kapitel15.html#NSJ"/></navPoint>
+<navPoint id="toc191" playOrder="191"><navLabel><text>NSK Trappor, r&#228;cken, balkonger m m</text></navLabel><content src="kapitel15.html#NSK"/></navPoint>
+<navPoint id="toc192" playOrder="192"><navLabel><text>NSM Taklist, sockellist, h&#246;rnlist m m</text></navLabel><content src="kapitel15.html#NSM"/></navPoint>
+<navPoint id="toc193" playOrder="193"><navLabel><text>NSN Galler</text></navLabel><content src="kapitel15.html#NSN"/></navPoint>
+<navPoint id="toc194" playOrder="194"><navLabel><text>X Inredningar och utrustningar</text></navLabel><content src="kapitel16.html#X"/></navPoint>
+<navPoint id="toc195" playOrder="195"><navLabel><text>XB Inredningar i bost&#228;der, kontor, undervisningslokaler, v&#229;rdlokaler, butikslokaler m m</text></navLabel><content src="kapitel16.html#XB"/></navPoint>
+<navPoint id="toc196" playOrder="196"><navLabel><text>XBC Tavelenheter</text></navLabel><content src="kapitel16.html#XBC"/></navPoint>
+<navPoint id="toc197" playOrder="197"><navLabel><text>XBD F&#246;rvaringsenheter</text></navLabel><content src="kapitel16.html#XBD"/></navPoint>
+<navPoint id="toc198" playOrder="198"><navLabel><text>XBF Sittenheter</text></navLabel><content src="kapitel16.html#XBF"/></navPoint>
+<navPoint id="toc199" playOrder="199"><navLabel><text>XBG Liggenheter</text></navLabel><content src="kapitel16.html#XBG"/></navPoint>
+<navPoint id="toc200" playOrder="200"><navLabel><text>XBH Textila enheter m m</text></navLabel><content src="kapitel16.html#XBH"/></navPoint>
+<navPoint id="toc201" playOrder="201"><navLabel><text>XBY Diverse inredningar i bost&#228;der, kontor, undervisningslokaler, v&#229;rdlokaler, butikslokaler m m</text></navLabel><content src="kapitel16.html#XBY"/></navPoint>
+<navPoint id="toc202" playOrder="202"><navLabel><text>XC Inredningar f&#246;r stordriftsberedning, tillagning eller servering av livsmedel</text></navLabel><content src="kapitel16.html#XC"/></navPoint>
+<navPoint id="toc203" playOrder="203"><navLabel><text>XCB Inredningsenheter i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XCB"/></navPoint>
+<navPoint id="toc204" playOrder="204"><navLabel><text>XK Utrustningar f&#246;r matlagning, f&#246;rvaring eller reng&#246;ring i bostad e d</text></navLabel><content src="kapitel16.html#XK"/></navPoint>
+<navPoint id="toc205" playOrder="205"><navLabel><text>XKC Kok- och stekapparater m m i bostad e d</text></navLabel><content src="kapitel16.html#XKC"/></navPoint>
+<navPoint id="toc206" playOrder="206"><navLabel><text>XKF Diskmaskiner i bostad e d</text></navLabel><content src="kapitel16.html#XKF"/></navPoint>
+<navPoint id="toc207" playOrder="207"><navLabel><text>XKH Utrustningar f&#246;r tv&#228;tt eller reng&#246;ring i bostad e d</text></navLabel><content src="kapitel16.html#XKH"/></navPoint>
+<navPoint id="toc208" playOrder="208"><navLabel><text>XL Utrustningar och maskiner f&#246;r stordriftsberedning, tillagning eller servering av livsmedel</text></navLabel><content src="kapitel16.html#XL"/></navPoint>
+<navPoint id="toc209" playOrder="209"><navLabel><text>XLB Utrustningar och maskiner f&#246;r bearbetning m m av livsmedel i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLB"/></navPoint>
+<navPoint id="toc210" playOrder="210"><navLabel><text>XLC Kokapparater och stekapparater m m i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLC"/></navPoint>
+<navPoint id="toc211" playOrder="211"><navLabel><text>XLD Apparater f&#246;r tillredning och servering eller dosering av drycker i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLD"/></navPoint>
+<navPoint id="toc212" playOrder="212"><navLabel><text>XLE Varmh&#229;llningsutrustningar i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLE"/></navPoint>
+<navPoint id="toc213" playOrder="213"><navLabel><text>XLF Diskmaskiner i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLF"/></navPoint>
+<navPoint id="toc214" playOrder="214"><navLabel><text>XLG Rullbanor, transport&#246;rer m m i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLG"/></navPoint>
+<navPoint id="toc215" playOrder="215"><navLabel><text>XLH Vagnar f&#246;r stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLH"/></navPoint>
+<navPoint id="toc216" playOrder="216"><navLabel><text>XLY Diverse utrustningar i stork&#246;k e d</text></navLabel><content src="kapitel16.html#XLY"/></navPoint>
+<navPoint id="toc217" playOrder="217"><navLabel><text>XM Kylenheter och frysenheter m m</text></navLabel><content src="kapitel16.html#XM"/></navPoint>
+<navPoint id="toc218" playOrder="218"><navLabel><text>XMB Kylenheter och frysenheter f&#246;r livsmedel m m</text></navLabel><content src="kapitel16.html#XMB"/></navPoint>
+<navPoint id="toc219" playOrder="219"><navLabel><text>XZ &#214;vriga inredningar och utrustningar</text></navLabel><content src="kapitel16.html#XZ"/></navPoint>
+<navPoint id="toc220" playOrder="220"><navLabel><text>Y M&#228;rkning, kontroll, dokumentation m m</text></navLabel><content src="kapitel17.html#Y"/></navPoint>
+<navPoint id="toc221" playOrder="221"><navLabel><text>YE Verifiering av &#246;verensst&#228;mmelse med krav p&#229; produkter</text></navLabel><content src="kapitel17.html#YE"/></navPoint>
+<navPoint id="toc222" playOrder="222"><navLabel><text>YG M&#228;rkning och skyltning</text></navLabel><content src="kapitel17.html#YG"/></navPoint>
+<navPoint id="toc223" playOrder="223"><navLabel><text>YGB M&#228;rkning</text></navLabel><content src="kapitel17.html#YGB"/></navPoint>
+<navPoint id="toc224" playOrder="224"><navLabel><text>YH Kontroll, injustering m m</text></navLabel><content src="kapitel17.html#YH"/></navPoint>
+<navPoint id="toc225" playOrder="225"><navLabel><text>YHB Kontroll</text></navLabel><content src="kapitel17.html#YHB"/></navPoint>
+<navPoint id="toc226" playOrder="226"><navLabel><text>YHC Injustering</text></navLabel><content src="kapitel17.html#YHC"/></navPoint>
+<navPoint id="toc227" playOrder="227"><navLabel><text>YHD Kontrollplaner</text></navLabel><content src="kapitel17.html#YHD"/></navPoint>
+<navPoint id="toc228" playOrder="228"><navLabel><text>YJ Teknisk dokumentation</text></navLabel><content src="kapitel17.html#YJ"/></navPoint>
+<navPoint id="toc229" playOrder="229"><navLabel><text>YJC Bygghandlingar</text></navLabel><content src="kapitel17.html#YJC"/></navPoint>
+<navPoint id="toc230" playOrder="230"><navLabel><text>YJD Underlag f&#246;r relationshandlingar</text></navLabel><content src="kapitel17.html#YJD"/></navPoint>
+<navPoint id="toc231" playOrder="231"><navLabel><text>YJE Relationshandlingar</text></navLabel><content src="kapitel17.html#YJE"/></navPoint>
+<navPoint id="toc232" playOrder="232"><navLabel><text>YK Utbildning och information</text></navLabel><content src="kapitel17.html#YK"/></navPoint>
+<navPoint id="toc233" playOrder="233"><navLabel><text>YKB Utbildning och information till drift-och underh&#229;llspersonal</text></navLabel><content src="kapitel17.html#YKB"/></navPoint>
+<navPoint id="toc234" playOrder="234"><navLabel><text>YV M&#228;rkning, kontroll, injustering m m av verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YV"/></navPoint>
+<navPoint id="toc235" playOrder="235"><navLabel><text>YVB M&#228;rkning och skyltning av verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YVB"/></navPoint>
+<navPoint id="toc236" playOrder="236"><navLabel><text>YVC Kontroll och injustering av verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YVC"/></navPoint>
+<navPoint id="toc237" playOrder="237"><navLabel><text>YX Teknisk dokumentation m m f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YX"/></navPoint>
+<navPoint id="toc238" playOrder="238"><navLabel><text>YXC Bygghandlingar f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YXC"/></navPoint>
+<navPoint id="toc239" playOrder="239"><navLabel><text>YXE Underlag f&#246;r relationshandlingar f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YXE"/></navPoint>
+<navPoint id="toc240" playOrder="240"><navLabel><text>YXH Driftinstruktioner f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YXH"/></navPoint>
+<navPoint id="toc241" playOrder="241"><navLabel><text>YXK Underh&#229;llsinstruktioner f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YXK"/></navPoint>
+<navPoint id="toc242" playOrder="242"><navLabel><text>YXP Information till drift- och underh&#229;llspersonal f&#246;r verksamhetsanknutna inredningar och utrustningar</text></navLabel><content src="kapitel17.html#YXP"/></navPoint>
+<navPoint id="toc243" playOrder="243"><navLabel><text>Z Diverse t&#228;tningar, kompletteringar, inf&#228;stningar o d</text></navLabel><content src="kapitel18.html#Z"/></navPoint>
+<navPoint id="toc244" playOrder="244"><navLabel><text>ZS Diverse t&#228;tningar, kompletteringar, inf&#228;stningar o d i hus</text></navLabel><content src="kapitel18.html#ZS"/></navPoint>
+<navPoint id="toc245" playOrder="245"><navLabel><text>ZSB T&#228;tning av fogar i hus</text></navLabel><content src="kapitel18.html#ZSB"/></navPoint>
+<navPoint id="toc246" playOrder="246"><navLabel><text>ZSC T&#228;tning av genomf&#246;ringar i hus</text></navLabel><content src="kapitel18.html#ZSC"/></navPoint>
+<navPoint id="toc247" playOrder="247"><navLabel><text>ZSD Kompletteringar av n&#228;t, tr&#229;d m m i hus</text></navLabel><content src="kapitel18.html#ZSD"/></navPoint>
+<navPoint id="toc248" playOrder="248"><navLabel><text>ZSE F&#228;stdon i hus</text></navLabel><content src="kapitel18.html#ZSE"/></navPoint>
+<navPoint id="toc249" playOrder="249"><navLabel><text>Begreppsbest&#228;mningar</text></navLabel><content src="bm01.html"/></navPoint>
+<navPoint id="toc250" playOrder="250"><navLabel><text>M&#229;ttdefinitioner</text></navLabel><content src="bm02.html"/></navPoint>
+<navPoint id="toc251" playOrder="251"><navLabel><text>Bilagor</text></navLabel><content src="bm03.html"/></navPoint>
+<navPoint id="toc252" playOrder="252"><navLabel><text>F&#246;rteckning &#246;ver &#229;beropad litteratur</text></navLabel><content src="bm04.html"/></navPoint>
+<navPoint id="toc253" playOrder="253"><navLabel><text>F&#246;rteckning &#246;ver &#229;beropad standard</text></navLabel><content src="bm05.html"/></navPoint>
+</navMap>
+</ncx>
+
